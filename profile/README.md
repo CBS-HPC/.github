@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Drag Racing](Dragster.jpg)
+![Drag Racing](https://github.com/CBS-HPC/.github/blob/main/profile/CBS%20logo.png)
 
 
 <!--
