@@ -30,7 +30,7 @@ Introduction text
 
 ## [Conda](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda.md)
 
-## Slurm Clustering on UCloud 
+## [Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster.md) 
 
 ## GPU's on UCloud 
 
