@@ -1,16 +1,13 @@
 ![CBS Logo](https://github.com/CBS-HPC/.github/blob/main/profile/CBS%20logo%202.png)
 
 
-High Performance Computing (HPC)
+# Welcome to the GitHub page of the HPC and Data Science at CBS Library
 
-Latest News!
+# HPC Overview:
 
-Call for applications for National HPC resources 2023 is now open – Deadline March 5, 2023
-See the headline on the front page of CBSShare
 
-Please contact Kristoffer Gulmark Poulsen or rdm@cbs.dk as soon as possible if you consider applying.
+## Type 1/UCloud - the recommended HPC type:
 
-​UCloud - the Recommended HPC type:
 The easiest-to-use and most accessible HCP service is DeiC Interactive HPC, also known as UCloud​. It allows you to work with software such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. See all apps. The computing power is provided by extensive HPC supercomputing facilities hosted by the Danish universities SDU and AAU.​
 
 Get started with DeiC Interactive HPC (UCloud)
@@ -19,12 +16,13 @@ Log in to UCloud with your CBS mail/password - select Copenhagen Business School
 
 How to obtain computing and storage resources:
 
-    All new users in DEIC Interactive HPC are awarded 1000 DKK computing (CPU) resources, as well as remote storage. You can use these resources to get acquainted with the system, run test jobs, etc.
-    To use UCloud for research projects, e.g., with several collaborators/student assistants, etc., you can either:
-        Request resources from a local CBS pool of computing and storage resources. You apply from UCloud by sending a grant request. If you have any questions about requesting resources, please contact RDM Support.
-        ​Apply for the bi-annual ​application round for the national HPC resources (see "Latest news" section at the beginning of this page)
+All new users in DEIC Interactive HPC are awarded 1000 DKK computing (CPU) resources, as well as remote storage. You can use these resources to get acquainted with the system, run test jobs, etc.
+To use UCloud for research projects, e.g., with several collaborators/student assistants, etc., you can either:
+Request resources from a local CBS pool of computing and storage resources. You apply from UCloud by sending a grant request. If you have any questions about requesting resources, please contact RDM Support.
+        
+​Apply for the bi-annual ​application round for the national HPC resources (see "Latest news" section at the beginning of this page)
 
-​Other available HPC services:
+## Other available HPC services:
 
 Throughput HPC (type 2) and Large Memory HPC (type 3)
 
