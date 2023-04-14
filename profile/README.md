@@ -28,7 +28,7 @@ To use UCloud for research projects, e.g., with several collaborators/student as
 
 Introduction text
 
-## Conda - Package, dependency and environment management for any language—Python, R and [more](https://docs.conda.io/en/latest/).
+## [Conda](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda.md)
 
 ## Slurm Clustering on UCloud 
 
