@@ -21,4 +21,5 @@ All new users in DEIC Interactive HPC are awarded 1000 DKK computing (CPU) resou
 To use UCloud for research projects, e.g., with several collaborators/student assistants, etc., you can either:
 
 - Request resources from a local CBS pool of computing and storage resources. You apply from UCloud by sending a grant request. If you have any questions about requesting resources, please contact RDM Support.
-- Apply for the bi-annual ​application round for the national HPC resources (see "Latest news" section at the beginning of this page)
+- 
+- Apply for the bi-annual application round for the national HPC resources (see "Latest news" section at the beginning of this page)
