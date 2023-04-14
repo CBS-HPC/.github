@@ -4,6 +4,10 @@
 # Welcome to HPC and Data Science at CBS Library
 
 
+# News
+
+
+
 # HPC Overview:
 A thorough description of the Deic National HPC facilites can be found [here](https://www.deic.dk/en/supercomputing/national-hpc-facilities)
 
