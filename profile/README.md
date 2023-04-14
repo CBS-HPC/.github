@@ -37,3 +37,12 @@ Introduction text
 ### [GPU's on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/GPUs.md) 
 
 ###  Etc.
+
+# Presentations
+Intro text
+
+### Introduction to UCloud 
+
+### HPC & Parallel Programming in R
+
+### HPC & Parallel Programming in Python
