@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![Drag Racing](https://github.com/CBS-HPC/.github/blob/main/profile/CBS%20logo2.png)
+![CBS Logo](https://github.com/CBS-HPC/.github/blob/main/profile/CBS%20logo%202.png)
 
 
 High Performance Computing (HPC)
