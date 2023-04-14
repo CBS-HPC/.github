@@ -4,7 +4,7 @@
 # Welcome to HPC and Data Science at CBS Library
 
 # HPC Overview:
-
+A thorough description of the Deic National HPC facilites can be found [here](https://www.deic.dk/en/supercomputing/national-hpc-facilities)
 
 ## Type 1/UCloud - the recommended HPC type:
 
@@ -19,19 +19,7 @@ The easiest-to-use and most accessible HCP service is DeiC Interactive HPC, also
 All new users in DEIC Interactive HPC are awarded 1000 DKK computing (CPU) resources, as well as remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. 
 
 To use UCloud for research projects, e.g., with several collaborators/student assistants, etc., you can either:
+
         - Request resources from a local CBS pool of computing and storage resources. You apply from UCloud by sending a grant request. If you have any questions about requesting resources, please contact RDM Support.
+        
         - Apply for the bi-annual ​application round for the national HPC resources (see "Latest news" section at the beginning of this page)
-
-## Other available HPC services:
-
-Throughput HPC (type 2) and Large Memory HPC (type 3)
-
-CBS also has a smaller pool of resources for Throughput HPC and Large Memory HPC,
-See a description of these HPC types 
-
-Throughput HPC services are hosted on Computerome and Genome.dk facilities.
-Large Memory HPC is hosted on SDU's UCloud service, but the user interface is terminal/command line-based and offers much more memory than UCloud does.
-
-What is HPC? Where to start - The EuroCC Knowledge Pool
-
-If you want to learn more about High-Performance Computing, and how to start using these national services, we recommend that you take a look at The EuroCC Knowledge Pool
