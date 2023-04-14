@@ -28,7 +28,7 @@ To use UCloud for research projects, e.g., with several collaborators/student as
 
 Introduction text
 
-## [Conda](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda.md)
+## [Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda.md)
 
 ## [Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster.md) 
 
