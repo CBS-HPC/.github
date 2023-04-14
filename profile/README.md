@@ -32,6 +32,6 @@ Introduction text
 
 ## [Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster.md) 
 
-## GPU's on UCloud 
+## [GPU's on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/GPUs.md) 
 
 ###
