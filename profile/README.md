@@ -4,7 +4,7 @@ This GitHub repository is...
 
 ## Contact Info
 
-E-mail: rdm@cbs.dk                            |     **Kristoffer Gulmark Poulsen** (kgp.lib@cbs.dk)    |     **Lars Nondal** (ln.lib@cbs.dk)
+**RDM E-mail** (rdm@cbs.dk)<br />| **Kristoffer Gulmark Poulsen** (kgp.lib@cbs.dk)    |     **Lars Nondal** (ln.lib@cbs.dk)
 
 ## News
 [23-04-12 - New milestone as DeiC Interactive HPC reaches 6,000 users](https://interactivehpc.dk/?p=1296)
