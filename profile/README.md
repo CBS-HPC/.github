@@ -5,7 +5,7 @@
 Introduction
 
 ## News
-23-03-20 - [The cost of success – user overload on DeiC Interactive HPC] (https://interactivehpc.dk/?p=1286)
+[23-03-20 - The cost of success – user overload on DeiC Interactive HPC](https://interactivehpc.dk/?p=1286)
 
 ## Upcoming Events:
 [23-06-08 @ 11.00-12.00: - High Performance Computing](https://cbs.libcal.com/event/4007624)
