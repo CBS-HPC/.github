@@ -8,4 +8,4 @@
 
 [Acknowledge the use of national HPC](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc) 
 
-[HPC operational status for users](https://status.cloud.sdu.dk/) &nbsp;&nbsp;| &nbsp;&nbsp;
+[HPC operational status for users](https://status.cloud.sdu.dk/)
