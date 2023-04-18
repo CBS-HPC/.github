@@ -24,8 +24,8 @@ Introduction
 
 ## Tutorials
 
-[Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)  |   [Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster/README.md)    |   [GPU's on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/GPUs/README.md)
+[Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)  | [Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster/README.md)  | [GPU's on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/GPUs/README.md) | [More...]()
 
 ## External Links
 
-[UCloud Documentation](https://docs.cloud.sdu.dk/)  |   [The EuroCC Knowledge Pool](https://deic-hpc.github.io/EuroCC-knowledgepool/)   |   [RUC HPC](https://hpc.ruc.dk/)
+[UCloud Documentation](https://docs.cloud.sdu.dk/)  | [The EuroCC Knowledge Pool](https://deic-hpc.github.io/EuroCC-knowledgepool/) | [RUC HPC](https://hpc.ruc.dk/)  | [More..]()
