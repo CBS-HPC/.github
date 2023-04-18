@@ -2,9 +2,13 @@
 
 
 # Welcome to HPC and Data Science at CBS Library
-
+Introduction
 
 ## News
+
+
+## Upcomming Teachings:
+[VIP session 8/6-2023 @ 11.00 am : High Performance Computing](https://cbs.libcal.com/event/4007624)
 
 ## [Get Access to HPC](https://github.com/CBS-HPC/.github/blob/main/profile/HPCACESS.md)
 
