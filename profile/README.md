@@ -32,8 +32,10 @@ This GitHub repository is...
 ## HPC Facilites & Documentation 
 [Deic HPC facilities - Overview](https://www.deic.dk/en/supercomputing/national-hpc-facilities) &nbsp;&nbsp;| &nbsp;&nbsp;
 [DeiC Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;| &nbsp;&nbsp; 
-[Apply-for-HPC-resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) &nbsp;&nbsp;| &nbsp;&nbsp;
-[Remember-to-acknowledge-the-use-of-national-hpc](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc) &nbsp;&nbsp;| &nbsp;&nbsp;
+[Apply for HPC resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) &nbsp;&nbsp;| &nbsp;&nbsp;
+[Acknowledge the use of HPC](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc) &nbsp;&nbsp;| &nbsp;&nbsp;
+[HPC operational status for users](https://status.cloud.sdu.dk/) &nbsp;&nbsp;| &nbsp;&nbsp;
+
 [**More**](https://github.com/CBS-HPC/.github/blob/main/profile/HPC.md)
 
 ## Tutorials
