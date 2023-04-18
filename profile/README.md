@@ -4,11 +4,7 @@ This GitHub repository is...
 
 ### Contact Info
 
-E-mail: rdm@cbs.dk
-
-Kristoffer Gulmark Poulsen: kgp.lib@cbs.dk
-
-Lars Nondal: ln.lib@cbs.dk
+E-mail: rdm@cbs.dk    |     **Kristoffer Gulmark Poulsen** (kgp.lib@cbs.dk)    |     **Lars Nondal** (ln.lib@cbs.dk)
 
 
 ## News
