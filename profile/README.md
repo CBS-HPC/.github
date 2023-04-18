@@ -1,4 +1,4 @@
-# HPC and Data Science Support at CBS Library
+![CBS Logo](Link URL)   #H PC and Data Science Support at CBS Library
 
 This GitHub repository is...
 
