@@ -11,7 +11,7 @@ Introduction
 [VIP session Thursday 8 June 2023 11.00-12.00: High Performance Computing](https://cbs.libcal.com/event/4007624)
 
 ## [Get Access to HPC](https://github.com/CBS-HPC/.github/blob/main/profile/HPCACESS.md)
-
+#### [Overview of Deic HPC facilities](https://www.deic.dk/en/supercomputing/national-hpc-facilities)
 
 ## UCloud Tutorials
 Introduction text
