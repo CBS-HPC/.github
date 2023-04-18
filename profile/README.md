@@ -4,17 +4,12 @@
 # Welcome to HPC and Data Science at CBS Library
 
 
-# News
+## News
 
-
-# Upcomming Events:
-
-
-# HPC Overview:
+## Acesss to HPC
 A thorough description of the Deic National HPC facilites can be found [here](https://www.deic.dk/en/supercomputing/national-hpc-facilities)
 
 ## Type 1/UCloud - the recommended HPC type:
-
 The easiest-to-use and most accessible HCP service is DeiC Interactive HPC, also known as [UCloud](https://cloud.sdu.dk/app/dashboard). It allows you to work with software such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). The computing power is provided by extensive HPC supercomputing facilities hosted by the Danish universities SDU and AAU.
 
 ### Get started with DeiC Interactive HPC (UCloud)
@@ -30,7 +25,6 @@ To use UCloud for research projects, e.g., with several collaborators/student as
 - Request resources from a local CBS pool of computing and storage resources. You apply from UCloud by sending a grant request. If you have any questions about requesting resources, please contact RDM Support.
 
 - Apply for the bi-annual application round for the national HPC resources (see "Latest news" section at the beginning of this page)
-
 
 ## UCloud Tutorials
 Introduction text
