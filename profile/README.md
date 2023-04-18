@@ -29,7 +29,7 @@ This GitHub repository is...
 
 [**More**](https://github.com/CBS-HPC/.github/blob/main/profile/Events.md)
 
-## HPC Facilites & Documentation 
+## HPC Facilites
 [Deic HPC facilities - Overview](https://www.deic.dk/en/supercomputing/national-hpc-facilities) &nbsp;&nbsp;| &nbsp;&nbsp;
 [DeiC Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;| &nbsp;&nbsp; 
 [Apply for HPC resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) &nbsp;&nbsp;| &nbsp;&nbsp;
