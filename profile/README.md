@@ -21,9 +21,8 @@ Introduction
 
 [Apply-for-HPC-resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)
 
-[The EuroCC Knowledge Pool](https://deic-hpc.github.io/EuroCC-knowledgepool/)
 
-## UCloud Tutorials
+## CBS Front Office Tutorials/Documentation
 Introduction text
 
 [Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
@@ -32,13 +31,8 @@ Introduction text
 
 [GPU's on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/GPUs/README.md) 
 
+## External Links
 
-## Presentations
-Intro text
+[UCloud Documentation](https://docs.cloud.sdu.dk/)
 
-#### Introduction to UCloud 
-
-#### HPC & Parallel Programming in R
-
-#### HPC & Parallel Programming in Python
-
+[The EuroCC Knowledge Pool](https://deic-hpc.github.io/EuroCC-knowledgepool/)
