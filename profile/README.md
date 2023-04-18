@@ -6,7 +6,7 @@
 
 ## News
 
-## [Acesss to HPC](https://github.com/CBS-HPC/.github/blob/main/profile/HPCACESS.md)
+## [Get Access to HPC](https://github.com/CBS-HPC/.github/blob/main/profile/HPCACESS.md)
 
 
 ## UCloud Tutorials
