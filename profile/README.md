@@ -20,7 +20,7 @@ Introduction
 
 [23-06-25 @ 11.00-12.00: - HPC & Parallel Programming in Python](https://cbs.libcal.com/event/4007624)
 
-[Show All...](https://github.com/CBS-HPC/Events)
+[*Show All...*](https://github.com/CBS-HPC/Events)
 
 ## HPC Facilites & Documentation 
 [Deic HPC facilities - Overview](https://www.deic.dk/en/supercomputing/national-hpc-facilities) | 
@@ -34,7 +34,7 @@ Introduction
 [Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster/README.md)  |
 [GPU's on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/GPUs/README.md) |
 [Virtual SLURM Learning (Hosted by Diec)](https://deic.dk/en/news/2022-11-21/virtual-slurm-learning-environment-ready) |
-[Show All...](https://github.com/CBS-HPC/Tutorials)
+[**Show All...**](https://github.com/CBS-HPC/Tutorials)
 
 ## External Links
 
@@ -42,4 +42,4 @@ Introduction
 [The EuroCC Knowledge Pool](https://deic-hpc.github.io/EuroCC-knowledgepool/)   |
 [Deic HPC GitHub](https://github.com/DeiC-HPC)  |
 [RUC HPC](https://hpc.ruc.dk/)  |
-[ Show All..](https://github.com/CBS-HPC/Links)
+[**Show All..**](https://github.com/CBS-HPC/Links)
