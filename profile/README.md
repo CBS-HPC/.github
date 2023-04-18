@@ -14,10 +14,12 @@ Introduction
 
 [VIP session Thursday 15 June 2023 11.00-12.00: - HPC & Parallel Programming in Python](https://cbs.libcal.com/event/4007624)
 
-## HPC Facilites
+## HPC Facilites & Documentation 
 [Deic HPC facilities - Overview](https://www.deic.dk/en/supercomputing/national-hpc-facilities)
 
 [DeiC Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md)
+
+[The EuroCC Knowledge Pool](https://deic-hpc.github.io/EuroCC-knowledgepool/)
 
 ## UCloud Tutorials
 Introduction text
