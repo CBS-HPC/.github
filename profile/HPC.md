@@ -1,4 +1,4 @@
-# HPC Facilites
+## HPC Facilites
 
 [Deic HPC facilities - Overview](https://www.deic.dk/en/supercomputing/national-hpc-facilities)
 
