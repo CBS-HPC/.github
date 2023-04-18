@@ -2,7 +2,7 @@
 
 This GitHub repository is...
 
-## Contact Info
+## Contact
 
 **Research & Data Management @ CBS** (rdm@cbs.dk) &nbsp;&nbsp; | &nbsp;&nbsp;
 **Kristoffer Gulmark Poulsen** (kgp.lib@cbs.dk) &nbsp;&nbsp; | &nbsp;&nbsp;
