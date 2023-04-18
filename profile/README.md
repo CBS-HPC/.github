@@ -5,14 +5,14 @@
 Introduction
 
 ## News
-
+23-03-20 - [The cost of success – user overload on DeiC Interactive HPC] (https://interactivehpc.dk/?p=1286)
 
 ## Upcoming Events:
-[Thursday 8 June 2023 11.00-12.00: - High Performance Computing](https://cbs.libcal.com/event/4007624)
+[23-06-08 @ 11.00-12.00: - High Performance Computing](https://cbs.libcal.com/event/4007624)
 
-[Wednesday 14 June 2023 11.00-12.00: - HPC & Parallel Programming in R](https://cbs.libcal.com/event/4007624)
+[23-06-14 @ 11.00-12.00: - HPC & Parallel Programming in R](https://cbs.libcal.com/event/4007624)
 
-[Thursday 15 June 2023 11.00-12.00: - HPC & Parallel Programming in Python](https://cbs.libcal.com/event/4007624)
+[23-06-25 @ 11.00-12.00: - HPC & Parallel Programming in Python](https://cbs.libcal.com/event/4007624)
 
 [Show All...]()
 
