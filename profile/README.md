@@ -18,7 +18,7 @@ This GitHub repository is...
 
 [23-06-25 @ 11.00-12.00: - HPC & Parallel Programming in Python](https://cbs.libcal.com/event/4007624)
 
-[**More**](https://github.com/CBS-HPC/Events)
+[**More**](https://github.com/CBS-HPC/.github/blob/main/profile/Events.md)
 
 ## HPC Facilites & Documentation 
 [Deic HPC facilities - Overview](https://www.deic.dk/en/supercomputing/national-hpc-facilities) | 
