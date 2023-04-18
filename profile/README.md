@@ -36,3 +36,5 @@ Introduction text
 [UCloud Documentation](https://docs.cloud.sdu.dk/)
 
 [The EuroCC Knowledge Pool](https://deic-hpc.github.io/EuroCC-knowledgepool/)
+
+[RUC HPC](https://hpc.ruc.dk/)
