@@ -22,7 +22,7 @@ Introduction
 [Apply-for-HPC-resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)
 
 
-## CBS Front Office Tutorials/Documentation
+## Tutorials
 Introduction text
 
 [Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
