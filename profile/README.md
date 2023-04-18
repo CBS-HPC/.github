@@ -17,22 +17,22 @@ Introduction
 [Show All...]()
 
 ## HPC Facilites & Documentation 
-[Deic HPC facilities - Overview](https://www.deic.dk/en/supercomputing/national-hpc-facilities) | 
-[DeiC Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) | 
-[Apply-for-HPC-resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)  |
+[Deic HPC facilities - Overview](https://www.deic.dk/en/supercomputing/national-hpc-facilities)| 
+[DeiC Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md)| 
+[Apply-for-HPC-resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)|
 [Show All...]()
 
 ## Tutorials
 
-[Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)  |
-[Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster/README.md)  |
-[GPU's on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/GPUs/README.md) |
+[Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)|
+[Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster/README.md)|
+[GPU's on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/GPUs/README.md)|
 [Show All...]()
 
 ## External Links
 
-[UCloud Documentation](https://docs.cloud.sdu.dk/)  |
+[UCloud Documentation](https://docs.cloud.sdu.dk/)|
 [The EuroCC Knowledge Pool](https://deic-hpc.github.io/EuroCC-knowledgepool/) |
-[Deic HPC GitHub](https://github.com/DeiC-HPC)
-[RUC HPC](https://hpc.ruc.dk/)  |
+[Deic HPC GitHub](https://github.com/DeiC-HPC)|
+[RUC HPC](https://hpc.ruc.dk/)|
 [ Show All..]()
