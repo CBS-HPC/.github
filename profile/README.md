@@ -32,23 +32,22 @@ To use UCloud for research projects, e.g., with several collaborators/student as
 - Apply for the bi-annual application round for the national HPC resources (see "Latest news" section at the beginning of this page)
 
 
-# UCloud Tutorials
-
+## UCloud Tutorials
 Introduction text
 
-### [Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
+#### [Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
 
-### [Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster/README.md) 
+#### [Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster/README.md) 
 
-### [GPU's on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/GPUs/README.md) 
+#### [GPU's on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/GPUs/README.md) 
 
 
-# Presentations
+## Presentations
 Intro text
 
-### Introduction to UCloud 
+#### Introduction to UCloud 
 
-### HPC & Parallel Programming in R
+#### HPC & Parallel Programming in R
 
-### HPC & Parallel Programming in Python
+#### HPC & Parallel Programming in Python
 
