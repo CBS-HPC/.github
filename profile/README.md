@@ -1,6 +1,6 @@
 ![CBS Logo](https://github.com/CBS-HPC/.github/blob/main/profile/CBS%20logo.png)   
 
-#HPC and Data Science Support at CBS Library
+# HPC and Data Science Support at CBS Library
 
 This GitHub repository is...
 
