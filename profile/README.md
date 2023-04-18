@@ -35,20 +35,20 @@ To use UCloud for research projects, e.g., with several collaborators/student as
 # UCloud Tutorials
 
 Introduction text
-
+```
 ### [Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
 
 ### [Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster/README.md) 
 
 ### [GPU's on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/GPUs/README.md) 
-
-###  Etc.
+````
 
 # Presentations
 Intro text
-
+```
 ### Introduction to UCloud 
 
 ### HPC & Parallel Programming in R
 
 ### HPC & Parallel Programming in Python
+````
