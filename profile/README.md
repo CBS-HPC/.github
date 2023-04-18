@@ -19,6 +19,8 @@ Introduction
 
 [DeiC Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md)
 
+[Apply-for-HPC-resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)
+
 [The EuroCC Knowledge Pool](https://deic-hpc.github.io/EuroCC-knowledgepool/)
 
 ## UCloud Tutorials
