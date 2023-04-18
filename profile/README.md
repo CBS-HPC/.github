@@ -9,7 +9,7 @@ This GitHub repository is...
 
 [23-03-15 - Launch of the DeiC Integration Portal](https://interactivehpc.dk/?p=1273)
 
-[**Older**](https://github.com/CBS-HPC/News)
+[**Older**](https://github.com/CBS-HPC/.github/blob/main/profile/News.md)
 
 ## Upcoming Events
 [23-06-08 @ 11.00-12.00: - High Performance Computing](https://cbs.libcal.com/event/4007624)
