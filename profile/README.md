@@ -4,8 +4,8 @@ This GitHub repository is...
 
 ## Contact Info
 
-**Research & Data Management @ CBS** (rdm@cbs.dk) &nbsp;&nbsp;&nbsp;&nbsp;
-**Kristoffer Gulmark Poulsen** (kgp.lib@cbs.dk) &nbsp;&nbsp;&nbsp;&nbsp;
+**Research & Data Management @ CBS** (rdm@cbs.dk) &nbsp;&nbsp;|&nbsp;&nbsp;
+**Kristoffer Gulmark Poulsen** (kgp.lib@cbs.dk) &nbsp;&nbsp;|&nbsp;&nbsp;
 **Lars Nondal** (ln.lib@cbs.dk)
 
 ## News
