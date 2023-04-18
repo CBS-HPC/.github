@@ -1,4 +1,4 @@
-# External Links
+## External Links
 
 [UCloud Documentation](https://docs.cloud.sdu.dk/)
 
