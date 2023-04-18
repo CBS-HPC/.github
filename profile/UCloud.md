@@ -6,7 +6,9 @@ The computing power is provided by extensive HPC supercomputing facilities hoste
 
 ### Get started with DeiC Interactive HPC (UCloud)
 
-Log in to UCloud with your [CBS mail/password](https://cloud.sdu.dk/app/login) - select Copenhagen Business School as your affiliate institution on the login page. The available UCloud documentation is on this [link](https://docs.cloud.sdu.dk/).
+Log in to UCloud with your [CBS mail/password](https://cloud.sdu.dk/app/login) - select Copenhagen Business School as your affiliate institution on the login page. 
+
+#### The available UCloud documentation is on this [link](https://docs.cloud.sdu.dk/).
 
 #### How to obtain computing and storage resources:
 
