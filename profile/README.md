@@ -27,24 +27,24 @@ This GitHub repository is...
 [**More**](https://github.com/CBS-HPC/.github/blob/main/profile/Events.md)
 
 ## HPC Facilites & Documentation 
-[Deic HPC facilities - Overview](https://www.deic.dk/en/supercomputing/national-hpc-facilities) | 
-[DeiC Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) | 
-[Apply-for-HPC-resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)  |
+[Deic HPC facilities - Overview](https://www.deic.dk/en/supercomputing/national-hpc-facilities) &nbsp;&nbsp;| 
+[DeiC Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;|  
+[Apply-for-HPC-resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) &nbsp;&nbsp;| 
 [**More**](https://github.com/CBS-HPC/.github/blob/main/profile/HPC.md)
 
 ## Tutorials
 
-[Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)  |
-[Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster/README.md)  |
+[Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md) &nbsp;&nbsp;| 
+[Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster/README.md) &nbsp;&nbsp;| 
 [GPU's on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/GPUs/README.md) |
-[Virtual SLURM Learning (Hosted by DieC)](https://deic.dk/en/news/2022-11-21/virtual-slurm-learning-environment-ready) |
-[UCloud Tutorials (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html) |
+[Virtual SLURM Learning (Hosted by DieC)](https://deic.dk/en/news/2022-11-21/virtual-slurm-learning-environment-ready) &nbsp;&nbsp;| 
+[UCloud Tutorials (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html) &nbsp;&nbsp;| 
 [**More**](https://github.com/CBS-HPC/Tutorials)
 
 ## External Links
 
-[UCloud Documentation](https://docs.cloud.sdu.dk/)  |
-[The EuroCC Knowledge Pool](https://deic-hpc.github.io/EuroCC-knowledgepool/)   |
-[Deic HPC GitHub](https://github.com/DeiC-HPC)  |
-[RUC HPC](https://hpc.ruc.dk/)  |
+[UCloud Documentation](https://docs.cloud.sdu.dk/) &nbsp;&nbsp;| 
+[The EuroCC Knowledge Pool](https://deic-hpc.github.io/EuroCC-knowledgepool/) &nbsp;&nbsp;| 
+[Deic HPC GitHub](https://github.com/DeiC-HPC) &nbsp;&nbsp;| 
+[RUC HPC](https://hpc.ruc.dk/) &nbsp;&nbsp;| 
 [**More**](https://github.com/CBS-HPC/.github/blob/main/profile/Links.md)
