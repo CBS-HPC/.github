@@ -8,7 +8,7 @@ A techinal guide is found [here](https://www.dst.dk/Site/Dst/SingleFiles/GetArch
 
 The linked information is **only** avaliable in danish.
 
-For further information or support please contact us at:
+**For further information or support please contact us at:**
 
 Research & Data Management @ CBS (rdm@cbs.dk)
 
