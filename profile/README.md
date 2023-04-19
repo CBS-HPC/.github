@@ -33,7 +33,7 @@ This GitHub repository is...
 
 [EuroHPC JU Call for Proposals for Regular Access Mode  - (Deadline: 2023-07-07)](https://prace-ri.eu/call/eurohpc-ju-call-for-proposals-for-regular-access-mode-2023-07-07-cutoff/)
 
-## Deic HPC Facilities
+## DeiC HPC Facilities
 [HPC facilities - Overview](https://www.deic.dk/en/supercomputing/national-hpc-facilities) &nbsp;&nbsp;| &nbsp;&nbsp;
 [Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;| &nbsp;&nbsp; 
 [Apply for HPC resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) &nbsp;&nbsp;| &nbsp;&nbsp;
