@@ -32,8 +32,8 @@ This GitHub repository is...
 [DeiC - Call H1-2024 Call for applications for access to the e- resources - (Deadline: July-August 2023)](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)
 
 ## Available HPC Facilities
-[National HPC Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/DeiCHPC.md)
-[WRDS Cloud](https://github.com/CBS-HPC/.github/blob/main/profile/WRDSHPC.md)
+[National HPC Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md)
+[WRDS Cloud](https://github.com/CBS-HPC/.github/blob/main/profile/WRDS.md)
 [High Performance Computing hos Nationalt Genom Center](https://github.com/CBS-HPC/.github/blob/main/profile/NGC.md)
 
 ## Tutorials
