@@ -26,7 +26,7 @@ To use UCloud for research projects, e.g., with several collaborators/student as
 
 [Quick guide on running JupyterLab on UCloud (Hosted by RUC)](https://hpc.ruc.dk/blog/tutorials/quick-guide-on-running-jupyterlab-on-ucloud/) 
 
-[High Performance Data Analytics in Python](https://enccs.github.io/HPDA-Python/#) 
+[High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/HPDA-Python/#) 
 
 ### External Links
 [UCloud Documentation](https://docs.cloud.sdu.dk/)
