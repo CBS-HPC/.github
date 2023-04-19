@@ -38,6 +38,10 @@ This GitHub repository is...
 [HPC operational status for users](https://status.cloud.sdu.dk/) &nbsp;&nbsp;| &nbsp;&nbsp;
 [**More**](https://github.com/CBS-HPC/.github/blob/main/profile/HPC.md)
 
+## HPC Grant Applications
+
+[EuroHPC JU Call for Proposals for Regular Access Mode (Deadline: 2023-07-07)](https://prace-ri.eu/call/eurohpc-ju-call-for-proposals-for-regular-access-mode-2023-07-07-cutoff/
+
 ## Tutorials
 
 [Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md) &nbsp;&nbsp;| &nbsp;&nbsp;
