@@ -43,8 +43,12 @@ This GitHub repository is...
 [Virtuel Machines on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/VMs/README.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**More**](https://github.com/CBS-HPC/Tutorials)
 
+## HPC Material
+[High Performance Data Analytics in Python ()] 
+
 ## External Links
 [Deic HPC GitHub](https://github.com/DeiC-HPC) &nbsp;&nbsp;|&nbsp;&nbsp; 
 [RUC HPC](https://hpc.ruc.dk/) &nbsp;&nbsp;|&nbsp;&nbsp;
 [Code Refinery](https://coderefinery.org/) &nbsp;&nbsp;|&nbsp;&nbsp;
+[ENCCS Lessons](https://enccs.se/lessons/) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**More**](https://github.com/CBS-HPC/.github/blob/main/profile/Links.md)
