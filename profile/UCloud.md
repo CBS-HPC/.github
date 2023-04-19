@@ -21,7 +21,7 @@ To use UCloud for research projects, e.g., with several collaborators/student as
 - Apply for the bi-annual application round for the national HPC resources (see "Latest news" section at the beginning of this page)
 
 
-# External Tutorials
+### External Tutorials
 [UCloud Tutorials (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
 
 [Quick guide on running JupyterLab on UCloud (Hosted by RUC)](https://hpc.ruc.dk/blog/tutorials/quick-guide-on-running-jupyterlab-on-ucloud/) 
