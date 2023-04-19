@@ -40,7 +40,7 @@ This GitHub repository is...
 ## Tutorials
 
 [Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md) &nbsp;&nbsp;| &nbsp;&nbsp;
-[Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/SlurmCluster/README.md) &nbsp;&nbsp;| &nbsp;&nbsp;
+[Slurm Clustering on UCloud](https://github.com/CBS-HPC/UCloud_SlurmCluster/blob/main/README.md) &nbsp;&nbsp;| &nbsp;&nbsp;
 [GPU's on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/GPUs/README.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [Virtual SLURM Learning (Hosted by DieC)](https://deic.dk/en/news/2022-11-21/virtual-slurm-learning-environment-ready) &nbsp;&nbsp;| &nbsp;&nbsp;
 [UCloud Tutorials (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html) &nbsp;&nbsp;|&nbsp;&nbsp; 
