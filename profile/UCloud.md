@@ -1,4 +1,7 @@
-# UCloud (Type 1)
+
+# Getting Started with HPC (UCloud) 
+
+## UCloud (Type 1)
 
 The easiest-to-use and most accessible HCP service is DeiC Interactive HPC, also known as [UCloud](https://cloud.sdu.dk/app/dashboard). It allows you to work with software such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
