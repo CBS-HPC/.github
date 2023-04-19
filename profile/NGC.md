@@ -6,4 +6,12 @@ This service is **not** funded by CBS. See [pricing list](https://www.dst.dk/Sit
 
 A techinal guide is found [here](https://www.dst.dk/Site/Dst/SingleFiles/GetArchiveFile.aspx?fi=91475106181&fo=0&ext=forskning)
 
-For further information or support please contact us at: Research & Data Management @ CBS (rdm@cbs.dk),  Kristoffer Gulmark Poulsen (kgp.lib@cbs.dk) or Lars Nondal (ln.lib@cbs.dk)
+The linked information is **only** avaliable in danish.
+
+For further information or support please contact us at: 
+
+Research & Data Management @ CBS (rdm@cbs.dk)
+
+Kristoffer Gulmark Poulsen (kgp.lib@cbs.dk)
+
+Lars Nondal (ln.lib@cbs.dk)
