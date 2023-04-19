@@ -40,7 +40,7 @@ This GitHub repository is...
 
 ## HPC Grant Applications
 
-[EuroHPC JU Call for Proposals for Regular Access Mode (Deadline: 2023-07-07)](https://prace-ri.eu/call/eurohpc-ju-call-for-proposals-for-regular-access-mode-2023-07-07-cutoff/)
+[EuroHPC JU Call for Proposals for Regular Access Mode  - (Deadline: 2023-07-07)](https://prace-ri.eu/call/eurohpc-ju-call-for-proposals-for-regular-access-mode-2023-07-07-cutoff/)
 
 ## Tutorials
 
