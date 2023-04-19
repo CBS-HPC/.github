@@ -24,7 +24,7 @@ To use UCloud for research projects, e.g., with several collaborators/student as
 ## External Links and Tutorials
 [UCloud Documentation](https://docs.cloud.sdu.dk/)
 
-[The EuroCC Knowledge Pool (Hosted by DeiC])(https://deic-hpc.github.io/EuroCC-knowledgepool/)
+[The EuroCC Knowledge Pool (Hosted by DeiC)](https://deic-hpc.github.io/EuroCC-knowledgepool/)
 
 [UCloud Tutorials (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
 
