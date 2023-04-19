@@ -1,4 +1,4 @@
-## Upcomming Events
+## Upcoming Events
 
 [23-06-08 @ 11.00-12.00: - High Performance Computing (For Researchers)](https://cbs.libcal.com/event/4007624)
 
