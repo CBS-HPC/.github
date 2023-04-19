@@ -34,7 +34,7 @@ This GitHub repository is...
 ## Available HPC Facilities
 [National HPC Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md) &nbsp;&nbsp;| &nbsp;&nbsp;
 [WRDS Cloud](https://github.com/CBS-HPC/.github/blob/main/profile/WRDS.md) &nbsp;&nbsp;| &nbsp;&nbsp;
-[Danish Statistics HPC at Nationalt Genom Center](https://github.com/CBS-HPC/.github/blob/main/profile/NGC.md)
+[Nationalt Genom Center HPC (Danish Statistics Data)](https://github.com/CBS-HPC/.github/blob/main/profile/NGC.md)
 
 ## Tutorials
 [Getting Started with HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;| &nbsp;&nbsp;
