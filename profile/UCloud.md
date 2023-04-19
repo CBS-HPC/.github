@@ -21,17 +21,20 @@ To use UCloud for research projects, e.g., with several collaborators/student as
 - Apply for the bi-annual application round for the national HPC resources (see "Latest news" section at the beginning of this page)
 
 
-### External Tutorials
+## External Links and Tutorials
+[UCloud Documentation](https://docs.cloud.sdu.dk/)
+
+[The EuroCC Knowledge Pool (Hosted by DeiC])(https://deic-hpc.github.io/EuroCC-knowledgepool/)
+
 [UCloud Tutorials (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
+
+### Python related: 
 
 [Quick guide on running JupyterLab on UCloud (Hosted by RUC)](https://hpc.ruc.dk/blog/tutorials/quick-guide-on-running-jupyterlab-on-ucloud/) 
 
 [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/HPDA-Python/#) 
 
-### External Links
-[UCloud Documentation](https://docs.cloud.sdu.dk/)
-
-[The EuroCC Knowledge Pool](https://deic-hpc.github.io/EuroCC-knowledgepool/)
+### R related:
 
 
 
