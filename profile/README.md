@@ -50,8 +50,6 @@ This GitHub repository is...
 
 ## External Links
 
-[UCloud Documentation](https://docs.cloud.sdu.dk/) &nbsp;&nbsp;|&nbsp;&nbsp;
-[The EuroCC Knowledge Pool](https://deic-hpc.github.io/EuroCC-knowledgepool/) &nbsp;&nbsp;|&nbsp;&nbsp; 
 [Deic HPC GitHub](https://github.com/DeiC-HPC) &nbsp;&nbsp;|&nbsp;&nbsp; 
 [RUC HPC](https://hpc.ruc.dk/) &nbsp;&nbsp;|&nbsp;&nbsp;
 [Code Refinery](https://coderefinery.org/) &nbsp;&nbsp;|&nbsp;&nbsp;
