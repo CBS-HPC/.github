@@ -8,4 +8,4 @@
 
 [Code Refinery](https://coderefinery.org/)
 
-[ENCCS Lessons](https://enccs.se/lessons/) &nbsp;&nbsp;|&nbsp;&nbsp;
+[ENCCS Lessons](https://enccs.se/lessons/)
