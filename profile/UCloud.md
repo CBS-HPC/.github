@@ -22,7 +22,7 @@ To use UCloud for research projects, e.g., with several collaborators/student as
 
 
 
-### External Tutorials
+### External Links
 
 [UCloud Tutorials (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
 
