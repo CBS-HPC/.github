@@ -44,7 +44,7 @@ This GitHub repository is...
 ## Tutorials
 
 [Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md) &nbsp;&nbsp;| &nbsp;&nbsp;
-[SLURM Clustering on UCloud](https://github.com/CBS-HPC/UCloud_SlurmCluster/blob/main/README.md) &nbsp;&nbsp;| &nbsp;&nbsp;
+[SLURM Clusters on UCloud](https://github.com/CBS-HPC/UCloud_SlurmCluster/blob/main/README.md) &nbsp;&nbsp;| &nbsp;&nbsp;
 [Virtuel Machines on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/VMs/README.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [UCloud Tutorials (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html) &nbsp;&nbsp;|&nbsp;&nbsp; 
 [Quick guide on running JupyterLab on UCloud (Hosted by RUC)](https://hpc.ruc.dk/blog/tutorials/quick-guide-on-running-jupyterlab-on-ucloud/) &nbsp;&nbsp;|&nbsp;&nbsp; 
