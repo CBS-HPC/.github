@@ -36,7 +36,7 @@ This GitHub repository is...
 [WRDS Cloud](https://github.com/CBS-HPC/.github/blob/main/profile/WRDS.md) &nbsp;&nbsp;| &nbsp;&nbsp;
 [Nationalt Genom Center HPC (Danish Statistics Data)](https://github.com/CBS-HPC/.github/blob/main/profile/NGC.md)
 
-## Tutorials
+## Tutorials & HPC Documentation
 [Getting Started with HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;| &nbsp;&nbsp;
 [Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md) &nbsp;&nbsp;| &nbsp;&nbsp;
 [SLURM Clusters on UCloud](https://github.com/CBS-HPC/UCloud_SlurmCluster/blob/main/README.md) &nbsp;&nbsp;| &nbsp;&nbsp;
