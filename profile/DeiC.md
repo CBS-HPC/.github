@@ -9,3 +9,5 @@
 [Acknowledge the use of national HPC](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc) 
 
 [HPC operational status for users](https://status.cloud.sdu.dk/)
+
+[The EuroCC Knowledge Pool (Hosted by DeiC)](https://deic-hpc.github.io/EuroCC-knowledgepool/)
