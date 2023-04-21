@@ -1,6 +1,6 @@
 # Applying for ressources in 6 Simple Steps
 
-If you have any furhter questions you are welcome to contact [RDM Support.](rmd@cbs.dk)
+If you have any further questions you are welcome to contact [RDM Support](rmd@cbs.dk).
 
 ### Step 1: Select "Apply for resources" on the UCloud frontpage 
 ![](grant1.PNG)
