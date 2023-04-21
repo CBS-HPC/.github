@@ -23,7 +23,7 @@ All new users in UCloud are awarded 1000 DKK computing (CPU) resources to the ["
 ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI).
 
 
-### Acessing further computing and storage resources:
+### Apply for Funds:
 Once your initial funds are spend or you need more 
 
 #### Students
