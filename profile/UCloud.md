@@ -24,6 +24,18 @@ All new users in UCloud are awarded a "My Workspace" with 1000 DKK of computing 
 
 The largest machine (64 cores & 384 GB memory) cost 5.49kr/H so a 1000 DKK this provide approx. 182 hours of run time.
 
+
+#### UCloud Tutorials and Documentations
+
+[UCloud Tutorials - Introduction to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
+
+[UCloud Documentation](https://docs.cloud.sdu.dk/)
+
+[Using Conda on UCloud to manage packages and libraries](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
+
+[Quick guide on running JupyterLab on UCloud (Hosted by RUC)](https://hpc.ruc.dk/blog/tutorials/quick-guide-on-running-jupyterlab-on-ucloud/) 
+ 
+
 ## Apply for Funds
 
 ### Students
@@ -45,15 +57,6 @@ This number should be used to [acknowledge the use of national HPC](https://www.
 
 ### What resources to Apply for:
 
-
-## UCloud Tutorials and Documentations
-
-[UCloud Documentation](https://docs.cloud.sdu.dk/)
-
-[UCloud Tutorials (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
-
-[Quick guide on running JupyterLab on UCloud (Hosted by RUC)](https://hpc.ruc.dk/blog/tutorials/quick-guide-on-running-jupyterlab-on-ucloud/) 
- 
 
 ## General HPC Documentations
 [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/HPDA-Python/#) 
