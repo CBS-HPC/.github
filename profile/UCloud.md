@@ -18,15 +18,18 @@ Upon the first login it is necessary to approve the SDU eScience terms of servic
 
 
 ## Get started with UCloud
-All new users in UCloud are awarded 1000 DKK computing (CPU) resources to the ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud), as well as 50 GB remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. 
+All new users in UCloud are awarded a "My Workspace" with 1000 DKK of computing (CPU) resources to the ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud), as well as 50 GB remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. 
 
 ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI).
 
+The largest machine (64 cores & 384 GB memory) cost 5.49kr/H so a 1000 DKK this provide approx. 182 hours of run time.
 
-## Apply for Funds:
+## Apply for Funds
 
 ### Students
 CBS student can only have direct access to the initial 1000kr credit and 50gb storage. When you need more/other resources, it must go through your thesis supervisor who needs to create a UCloud project and invite you to join. If this is not possible then you welcome to contact [RDM Support](rdm@cbs.dk) to discuss further.
+
+The ressources will be provided within a UCloud project and not to a user "My Workspace".
 
 ### Researchers & Staff
 
@@ -35,6 +38,11 @@ Further funds can be obtianed in two ways:
 1. Apply to the [local CBS ressource pool](). You apply from UCloud by sending a [grant request](). For questions please contact [RDM Support](rdm@cbs.dk).
 
 2. Apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)) for the national HPC resources. Please contact [RDM Support](rdm@cbs.dk) as soon as possible if you consider applying.
+
+For Both ways the ressources will be provided within a UCloud project and not to a user "My Workspace". Each UCloud project will be given a reference number (DeiC-XX-Y NUMBER).
+
+This number should be used to [acknowledge the use of national HPC](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc)  in publication.
+
 
 ## Collaborations on UCloud
 
