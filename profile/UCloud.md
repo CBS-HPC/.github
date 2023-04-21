@@ -29,7 +29,7 @@ The largest machine (64 cores & 384 GB memory) cost 5.49kr/H so a 1000 DKK this 
 
 [UCloud Tutorials - Introduction to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
 
-[UCloud Documentation (Hosted by UCloud)]](https://docs.cloud.sdu.dk/)
+[UCloud Documentation (Hosted by UCloud)](https://docs.cloud.sdu.dk/)
 
 [Using Conda on UCloud to manage packages and libraries](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
 
