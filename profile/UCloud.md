@@ -3,12 +3,14 @@
 
 The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [UCloud](https://cloud.sdu.dk/). This service is provided by the Danish universities [SDU]() and [AAU]().
 
-
 ## Facility Overview
 
 [SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
 [AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](). It is possible to set up interactive enviroments such as [JupyterLab]().
+
+More information can be found [here]().
+
 
 ## Get access to UCloud
 
@@ -49,12 +51,10 @@ The ressources will be provided within a UCloud project and not to a user "My Wo
 
 Further funds can be obtianed in two ways: 
 
-1. Apply to the local CBS ressource pool. You apply from UCloud by sending a [grant request](https://github.com/CBS-HPC/.github/blob/main/profile/GrantApp.md). For questions please contact [RDM Support](rdm@cbs.dk).
+1. Apply to the local CBS ressource pool. You apply from UCloud by sending a [UCloud grant application](https://github.com/CBS-HPC/.github/blob/main/profile/GrantApp.md). Information on machine be found [here](https://github.com/CBS-HPC/.github/blob/main/profile/MachineType.md). Otherwise please contact [RDM Support](rdm@cbs.dk).
 
 2. Apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)) for the national HPC resources. Please contact [RDM Support](rdm@cbs.dk) as soon as possible if you consider applying.
 
 For both ways the ressources will be provided to a UCloud project and not to a user "My Workspace". Each UCloud project will be given a reference number (DeiC-XX-Y NUMBER).
 
 This number should be used to [acknowledge the use of national HPC](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc) in publications.
-
-## What Machine Type to Choose
