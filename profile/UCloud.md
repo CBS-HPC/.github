@@ -24,19 +24,20 @@ All new users in UCloud are awarded 1000 DKK computing (CPU) resources to the ["
 
 
 ### Apply for Funds:
-Once your initial funds are spend or you need more 
 
 #### Students
-
+CBS student can only have direct access to the initial 1000kr credit and 50gb storage. When you need more/other resources, it must go through your thesis supervisor who needs to create a UCloud project and invite you to join. If this is not possible then you welcome to contact us at rdm@cbs.dk to discuss further.
 
 #### Researchers & Staff
 
+Researchers & staff can obtain further UCloud ressources through one of two ways: 
+
+1. Request resources from a local CBS pool of computing and storage resources. You apply from UCloud by sending a grant request. If you have any questions about requesting resources, please contact RDM Support.
+
+2. Apply for the bi-annual application round for the national HPC resources (see "Latest news" section at the beginning of this page)
+
+
 To use UCloud for research projects, e.g., with several collaborators/student assistants, etc., you can either:
-
-- Request resources from a local CBS pool of computing and storage resources. You apply from UCloud by sending a grant request. If you have any questions about requesting resources, please contact RDM Support.
-
-- Apply for the bi-annual application round for the national HPC resources (see "Latest news" section at the beginning of this page)
-
 
 ## External Links and Tutorials
 
