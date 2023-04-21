@@ -1,4 +1,4 @@
-# Applying for UCloud in 5 Simple Steps
+# Applying for ressources in 6 Simple Steps
 
 ### Step 1: Select "Apply for resources" on the UCloud frontpage 
 ![](grant1.PNG)
@@ -16,3 +16,5 @@
 ![](grant4.PNG)
 
 ![](grant5.PNG)
+
+![](grant6.PNG)
