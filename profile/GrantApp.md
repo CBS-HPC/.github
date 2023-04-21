@@ -3,7 +3,7 @@
 If you have any further questions you are welcome to contact [RDM Support](rmd@cbs.dk).
 
 ### Step 1: Select "Apply for resources" on the UCloud frontpage 
-![](grant1.PNG)
+![](images/grant1.PNG)
 
 ### Step 2: Select "Apply for new project instead"
 ![](grant2.PNG)
