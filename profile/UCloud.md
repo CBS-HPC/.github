@@ -32,10 +32,9 @@ CBS student can only have direct access to the initial 1000kr credit and 50gb st
 
 Further funds can be obtianed in two ways: 
 
-1. Apply to the **local CBS ressource pool**. You apply from UCloud by sending a [grant request](). For questions please contact [RDM Support](rdm@cbs.dk).
+1. Apply to the [local CBS ressource pool](). You apply from UCloud by sending a [grant request](). For questions please contact [RDM Support](rdm@cbs.dk).
 
-2. Apply for the **bi-annual application round** for the national HPC resources ([see more](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)). [RDM Support](rdm@cbs.dk) are more than willing to aim in the application process. 
-
+2. Apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)) for the national HPC resources. Please contact [RDM Support](rdm@cbs.dk) as soon as possible if you consider applying.
 
 #### Collaborations on UCloud
 
