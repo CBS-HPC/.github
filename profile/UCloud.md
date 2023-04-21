@@ -1,21 +1,46 @@
 
 # Getting Started with HPC (UCloud) 
 
+
+Upon the first login it is necessary to approve the SDU eScience terms of service. Afterwards, the user is redirected to the UCloud user interface.
+
+Note:
+Once logged in, the user has the option to set up a two factor authentication by clicking on the avatar icon in the top-right corner of the home screen.
+Valuable information about current status of UCloud
+
+In case you experience an unusual behavior, visit https://status.cloud.sdu.dk/
+Getting started
+
+There is a set of video tutorials as a part of UCloud documentation.
+
+
 ## UCloud (Type 1)
 
-The easiest-to-use and most accessible HCP service is DeiC Interactive HPC, also known as [UCloud](https://cloud.sdu.dk/app/dashboard). It allows you to work with software such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
+The easiest-to-use and most accessible HCP service is DeiC Interactive HPC, also known as [UCloud](https://cloud.sdu.dk/). This service is provided by the Danish universities SDU and AAU.
 
-The computing power is provided by extensive HPC supercomputing facilities hosted by the Danish universities SDU and AAU.
+It allows you to work with software such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
-### Get started with DeiC Interactive HPC (UCloud)
 
-Log in to UCloud with your [CBS mail/password](https://cloud.sdu.dk/app/login) - select Copenhagen Business School as your affiliate institution on the login page. 
+### Get access to UCloud
 
-The available UCloud documentation is on this [link](https://docs.cloud.sdu.dk/).
+You can get access to UCloud through WAYF (Where Are You From) using our [CBS mail/password](https://cloud.sdu.dk/app/login) - select Copenhagen Business School as your affiliate institution on the login page. 
 
-#### How to obtain computing and storage resources:
+Upon the first login it is necessary to approve the SDU eScience terms of service. Afterwards, the user is redirected to the UCloud user interface.
 
-All new users in DEIC Interactive HPC are awarded 1000 DKK computing (CPU) resources, as well as remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. 
+
+### Get started with UCloud
+All new users in UCloud are awarded 1000 DKK computing (CPU) resources to the ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud), as well as 50 GB remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. 
+
+["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI).
+
+
+### Acessing further computing and storage resources:
+
+
+#### Students
+
+
+#### Researchers & Staff
 
 To use UCloud for research projects, e.g., with several collaborators/student assistants, etc., you can either:
 
