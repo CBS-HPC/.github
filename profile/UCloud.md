@@ -1,22 +1,7 @@
 
 # Getting Started with HPC (UCloud) 
 
-
-Upon the first login it is necessary to approve the SDU eScience terms of service. Afterwards, the user is redirected to the UCloud user interface.
-
-Note:
-Once logged in, the user has the option to set up a two factor authentication by clicking on the avatar icon in the top-right corner of the home screen.
-Valuable information about current status of UCloud
-
-In case you experience an unusual behavior, visit https://status.cloud.sdu.dk/
-Getting started
-
-There is a set of video tutorials as a part of UCloud documentation.
-
-
-## UCloud (Type 1)
-
-The easiest-to-use and most accessible HCP service is DeiC Interactive HPC, also known as [UCloud](https://cloud.sdu.dk/). This service is provided by the Danish universities SDU and AAU.
+The easiest-to-use HCP service is Type 1 DeiC Interactive HPC ([UCloud](https://cloud.sdu.dk/)). This service is provided by the Danish universities SDU and AAU.
 
 It allows you to work with software such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
@@ -50,6 +35,7 @@ To use UCloud for research projects, e.g., with several collaborators/student as
 
 
 ## External Links and Tutorials
+
 [UCloud Documentation](https://docs.cloud.sdu.dk/)
 
 [The EuroCC Knowledge Pool (Hosted by DeiC)](https://deic-hpc.github.io/EuroCC-knowledgepool/)
