@@ -12,7 +12,7 @@ If you have any further questions you are welcome to contact [RDM Support](rmd@c
 ![](images/grant3.PNG)
 
 ### Step 4: Choice Storage amount and Machine Type(in DKK). 
-#### Only **"DeiC Interactive HPC (SDU) / u1-standard"(CPU) ** & **"DeiC Interactive HPC (AAU) / uc-t4" (GPU)** are relevant
+#### Only "DeiC Interactive HPC (SDU) / u1-standard" (CPU) & "DeiC Interactive HPC (AAU) / uc-t4" (GPU) are relevant
 ![](images/grant4.PNG)
 
 ### Step 5: Provide a meaningfull project description & select Stata Licens (if needed). 
