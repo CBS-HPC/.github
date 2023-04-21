@@ -44,25 +44,16 @@ For Both ways the ressources will be provided within a UCloud project and not to
 This number should be used to [acknowledge the use of national HPC](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc)  in publication.
 
 
-## Collaborations on UCloud
-
-To use UCloud for research projects, e.g., with several collaborators/student assistants, etc., you can either:
-
-## External Links and Tutorials
+## UCloud Tutorials and Documentations
 
 [UCloud Documentation](https://docs.cloud.sdu.dk/)
 
-[The EuroCC Knowledge Pool (Hosted by DeiC)](https://deic-hpc.github.io/EuroCC-knowledgepool/)
-
 [UCloud Tutorials (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
 
-### Python related: 
-
 [Quick guide on running JupyterLab on UCloud (Hosted by RUC)](https://hpc.ruc.dk/blog/tutorials/quick-guide-on-running-jupyterlab-on-ucloud/) 
+ 
 
+## General HPC Documentations
 [High Performance Data Analytics in Python (Hosted by ENCCS)](https://enccs.github.io/HPDA-Python/#) 
-
-### R related:
-
 
 
