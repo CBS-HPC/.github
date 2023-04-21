@@ -11,7 +11,7 @@ When setting up a Job it is possible to select between the following machine typ
 ![](images/u1-standard.PNG)
 
 
-# DeiC Interactive HPC (AAU) / uc-t4" (GPU)
+## DeiC Interactive HPC (AAU) / uc-t4 (GPU)
 [AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](). It is possible to set up interactive enviroments such as [JupyterLab]().
 
 ![](images/uc-t4.PNG)
