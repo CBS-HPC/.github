@@ -43,7 +43,9 @@ The largest machine (64 cores & 384 GB memory) cost 5.49kr/H so a 1000 DKK this 
 ## Apply for Funds
 
 ### Students
-CBS student can only have direct access to the initial 1000kr credit and 50gb storage. When you need more/other resources, it must go through your thesis supervisor who needs to apply for funds and invite you to join the UCloud project. If this is not possible then you welcome to contact [RDM Support](rdm@cbs.dk) to discuss further.
+CBS student can only have direct access to the initial 1000kr credit and 50gb storage. When you need more/other resources, it must go through your thesis supervisor who needs to apply for funds and invite you to join the UCloud project. 
+
+If this is not possible then you welcome to contact [RDM Support](rdm@cbs.dk) to discuss further.
 
 The ressources will be provided within a UCloud project and not to a user "My Workspace".
 
