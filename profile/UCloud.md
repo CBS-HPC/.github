@@ -31,6 +31,8 @@ The largest machine (64 cores & 384 GB memory) cost 5.49kr/H so a 1000 DKK this 
 
 - [UCloud Documentation (Hosted by UCloud)](https://docs.cloud.sdu.dk/)
 
+- [Synchronization to UCloud](https://docs.cloud.sdu.dk/guide/synch.html?highlight=syncthing)
+
 - [Using Conda on UCloud to manage packages and libraries](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
 
 - [Quick guide on running JupyterLab on UCloud (Hosted by RUC)](https://hpc.ruc.dk/blog/tutorials/quick-guide-on-running-jupyterlab-on-ucloud/) 
