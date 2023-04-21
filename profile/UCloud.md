@@ -1,10 +1,12 @@
 
 # Getting Started with HPC (UCloud) 
 
-The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [UCloud](https://cloud.sdu.dk/). This service is provided by the Danish universities SDU and AAU.
+The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [UCloud](https://cloud.sdu.dk/). This service is provided by the Danish universities [SDU]() and [AAU]().
 
-It allows you to work with software such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
+[SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containers with a wide range of applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
+
+[AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](). It is possible to set up interactive enviroments such as [JupyterLab]()
 
 ### Get access to UCloud
 
@@ -20,7 +22,7 @@ All new users in UCloud are awarded 1000 DKK computing (CPU) resources to the ["
 
 
 ### Acessing further computing and storage resources:
-
+Once your initial funds are spend or you need more 
 
 #### Students
 
