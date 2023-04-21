@@ -55,4 +55,4 @@ For Both ways the ressources will be provided within a UCloud project and not to
 
 This number should be used to [acknowledge the use of national HPC](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc)  in publication.
 
-### What resources to Apply for:
+## What Machine Type to Choose
