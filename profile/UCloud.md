@@ -47,7 +47,7 @@ The ressources will be provided within a UCloud project and not to a user "My Wo
 
 Further funds can be obtianed in two ways: 
 
-1. Apply to the [local CBS ressource pool](). You apply from UCloud by sending a [grant request](). For questions please contact [RDM Support](rdm@cbs.dk).
+1. Apply to the local CBS ressource pool. You apply from UCloud by sending a [grant request](). For questions please contact [RDM Support](rdm@cbs.dk).
 
 2. Apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)) for the national HPC resources. Please contact [RDM Support](rdm@cbs.dk) as soon as possible if you consider applying.
 
