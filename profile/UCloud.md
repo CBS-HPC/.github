@@ -4,31 +4,31 @@
 The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [UCloud](https://cloud.sdu.dk/). This service is provided by the Danish universities [SDU]() and [AAU]().
 
 
-### Facility Overview
+## Facility Overview
 
 [SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
 [AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](). It is possible to set up interactive enviroments such as [JupyterLab]().
 
-### Get access to UCloud
+## Get access to UCloud
 
 You can get access to UCloud through WAYF (Where Are You From) using our [CBS mail/password](https://cloud.sdu.dk/app/login) - select Copenhagen Business School as your affiliate institution on the login page. 
 
 Upon the first login it is necessary to approve the SDU eScience terms of service. Afterwards, the user is redirected to the UCloud user interface.
 
 
-### Get started with UCloud
+## Get started with UCloud
 All new users in UCloud are awarded 1000 DKK computing (CPU) resources to the ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud), as well as 50 GB remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. 
 
 ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI).
 
 
-### Apply for Funds:
+## Apply for Funds:
 
-#### Students
+### Students
 CBS student can only have direct access to the initial 1000kr credit and 50gb storage. When you need more/other resources, it must go through your thesis supervisor who needs to create a UCloud project and invite you to join. If this is not possible then you welcome to contact [RDM Support](rdm@cbs.dk) to discuss further.
 
-#### Researchers & Staff
+### Researchers & Staff
 
 Further funds can be obtianed in two ways: 
 
@@ -36,7 +36,7 @@ Further funds can be obtianed in two ways:
 
 2. Apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)) for the national HPC resources. Please contact [RDM Support](rdm@cbs.dk) as soon as possible if you consider applying.
 
-#### Collaborations on UCloud
+## Collaborations on UCloud
 
 To use UCloud for research projects, e.g., with several collaborators/student assistants, etc., you can either:
 
