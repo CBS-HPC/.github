@@ -60,3 +60,8 @@ Further funds can be obtianed in two ways:
 For both ways the ressources will be provided to a UCloud project and not to a user "My Workspace". Each UCloud project will be given a reference number (DeiC-XX-Y NUMBER).
 
 This number should be used to [acknowledge the use of national HPC](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc) in publications.
+
+## Collaboration on UCloud
+
+Still in the making
+
