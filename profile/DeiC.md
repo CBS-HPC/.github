@@ -1,5 +1,5 @@
 
-***This page is adopted from the original sources: https://hpc.ruc.dk/national-hpc-facilities/ & https://www.deic.dk/en/supercomputing/national-hpc-facilities***
+***This page is adopted from the following sources: https://hpc.ruc.dk/national-hpc-facilities/ & https://www.deic.dk/en/supercomputing/national-hpc-facilities***
 
 # National HPC Facilities
 
