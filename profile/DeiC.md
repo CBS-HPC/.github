@@ -47,7 +47,7 @@ LUMI Capability HPC provides a similar setup to DeiC Throughput HPC but with inc
 [The EuroCC Knowledge Pool (Hosted by DeiC)](https://deic-hpc.github.io/EuroCC-knowledgepool/)
 
 
-#### ***This page is adopted from the following sources:*** 
+### ***This page is adopted from the following sources:*** 
 
 ***https://hpc.ruc.dk/national-hpc-facilities/***
 
