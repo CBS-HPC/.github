@@ -47,4 +47,5 @@ This GitHub repository is...
 [Deic HPC GitHub](https://github.com/DeiC-HPC) &nbsp;&nbsp;|&nbsp;&nbsp; 
 [RUC HPC](https://hpc.ruc.dk/) &nbsp;&nbsp;|&nbsp;&nbsp;
 [Code Refinery](https://coderefinery.org/) &nbsp;&nbsp;|&nbsp;&nbsp;
+[DTU Sophia GitHub](https://dtu-sophia.github.io/docs/) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**More**](https://github.com/CBS-HPC/.github/blob/main/profile/Links.md)
