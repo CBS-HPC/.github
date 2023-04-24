@@ -3,8 +3,8 @@ This GitHub repository is...
 
 ## Contact
 [**Research & Data Management @ CBS**](https://www.cbs.dk/en/research/cbs-research-profile/research-data-management) (rdm@cbs.dk) &nbsp;&nbsp; | &nbsp;&nbsp;
-**Kristoffer Gulmark Poulsen** (kgp.lib@cbs.dk) &nbsp;&nbsp; | &nbsp;&nbsp;
-**Lars Nondal** (ln.lib@cbs.dk)
+[**Kristoffer Gulmark Poulsen**](https://www.cbs.dk/en/cbs/organisation/faellesadministrationen/bibliotek/staff/kgplib) (kgp.lib@cbs.dk) &nbsp;&nbsp; | &nbsp;&nbsp;
+[**Lars Nondal**](https://www.cbs.dk/en/about-cbs/organisation/shared-central-services/library/staff/lnlib) (ln.lib@cbs.dk)
 
 ## News
 [23-04-18 - New Tutorial "Conda on UCloud"](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
