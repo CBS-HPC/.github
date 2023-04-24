@@ -1,6 +1,3 @@
-
-***This page is adopted from the following sources: https://hpc.ruc.dk/national-hpc-facilities/ & https://www.deic.dk/en/supercomputing/national-hpc-facilities***
-
 # National HPC Facilities
 
 This page provides an overview of the [national HPC facilities (overview provided by DeiC)](https://www.deic.dk/en/supercomputing/national-hpc-facilities). 
@@ -48,3 +45,7 @@ LUMI Capability HPC provides a similar setup to DeiC Throughput HPC but with inc
 [HPC operational status for users](https://status.cloud.sdu.dk/)
 
 [The EuroCC Knowledge Pool (Hosted by DeiC)](https://deic-hpc.github.io/EuroCC-knowledgepool/)
+
+
+***This page is adopted from the following sources: https://hpc.ruc.dk/national-hpc-facilities/ & https://www.deic.dk/en/supercomputing/national-hpc-facilities***
+
