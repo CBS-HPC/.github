@@ -6,15 +6,18 @@
 This page serves and overview of the [national HPC facilities (overview provided by DeiC)](https://www.deic.dk/en/supercomputing/national-hpc-facilities). 
 
 ## Type 1 – Interactive HPC
-The type 1 system is mainly focused on interactive computing and easy access for users. The system is made of the YouGene cluster hosted at SDU. CBS staff and students can access the cluster resources via [UCloud](). For more details click [here]().
+The type 1 system is mainly focused on interactive computing and easy access for users. The system is made of the YouGene cluster hosted at SDU. CBS staff and students can access the cluster resources via [UCloud](https://cloud.sdu.dk/app/). For more details click [here](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md).
 
 ## Type 2 – Throughput HPC
 This type of HPC system typically has a large number of cores which can be a mix between cost-effective and calculation-efficient units. Type 2 also has the ability to handle large amounts of data and its main focus is on high-throughput performance.
 
 There are three type 2 HPC systems available at national level for CBS researchers:
-[Computerome 2.0](https://escience.sdu.dk/index.php/type-2-computerome/) &nbsp;&nbsp;| &nbsp;&nbsp;
-[GenomeDK](https://escience.sdu.dk/index.php/type-2-genomedk/) &nbsp;&nbsp;| &nbsp;&nbsp;
-[Sophia](https://escience.sdu.dk/index.php/type-2-sofia/) &nbsp;&nbsp;| &nbsp;&nbsp;
+
+[Computerome 2.0](https://escience.sdu.dk/index.php/type-2-computerome/)
+
+[GenomeDK](https://escience.sdu.dk/index.php/type-2-genomedk/)
+
+[Sophia](https://escience.sdu.dk/index.php/type-2-sofia/)
 
 **Researchers and PhD. students at CBS can apply for resources on one of the type 2 facilities by submitting an application form via Front Office by sending email to rdm@cbs.dk.**
 
