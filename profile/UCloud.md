@@ -66,8 +66,6 @@ This number should be used to [acknowledge the use of national HPC](https://www.
 Still in the making
 
 #### UCloud Access for International Collaborators
-International research collaborators can gain acess to UCloud if they have a
-"visiting researcher premission"(gæsteforskeradgang) to CBS. One can be obtained by contacting [CBS HR](
-HR@cbs.dk).
+International research collaborators can gain acess to UCloud if they have a "visiting researcher premission"(gæsteforskeradgang) to CBS. One can be obtained by contacting [CBS HR](HR@cbs.dk).
 
 
