@@ -1,13 +1,13 @@
 ## HPC & Data Science Support at CBS
 This GitHub repository is...
 
-## CBS DeiC Front Office
+### CBS DeiC Front Office
 
 **CBS Front Office** communicates with HPC system adminstrators(**Back Office**) and DeiC. Ideally, all user requests and troubleshooting should be send to the CBS [Front Office](rdm@cbs.dk) as a Single Point of Contact (SPOC) where resulting tickets will be directed accordingly. 
 
 This setup provides a better service to users and saves valuable time for **Back Office** technicians who can concentrate on highly technical issues.
 
-## Contact
+### Contact
 [**Research & Data Management @ CBS**](https://www.cbs.dk/en/research/cbs-research-profile/research-data-management) (rdm@cbs.dk) &nbsp;&nbsp; | &nbsp;&nbsp;
 [**Kristoffer Gulmark Poulsen**](https://www.cbs.dk/en/cbs/organisation/faellesadministrationen/bibliotek/staff/kgplib) (kgp.lib@cbs.dk) &nbsp;&nbsp; | &nbsp;&nbsp;
 [**Lars Nondal**](https://www.cbs.dk/en/about-cbs/organisation/shared-central-services/library/staff/lnlib) (ln.lib@cbs.dk)
