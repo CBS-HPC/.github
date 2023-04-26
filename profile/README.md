@@ -12,7 +12,7 @@ This setup provides a better service to users and saves valuable time for **Back
 [**Lars Nondal**](https://www.cbs.dk/en/about-cbs/organisation/shared-central-services/library/staff/lnlib) (ln.lib@cbs.dk)
 
 ### Sections
-[News](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#news) &nbsp;&nbsp; |  &nbsp;&nbsp; 
+[News](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#news) &nbsp; | ;&nbsp; 
 [Upcoming Events](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#upcoming-events) &nbsp;&nbsp; |  &nbsp;&nbsp; 
 [HPC Grant Applications](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#hpc-grant-applications) &nbsp;&nbsp; |  &nbsp;&nbsp; 
 [Available HPC Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#available-hpc-facilities) &nbsp;&nbsp; |  &nbsp;&nbsp; 
