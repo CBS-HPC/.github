@@ -1,4 +1,4 @@
-# Add License og Matlab, STATA and SAS application
+# Add License to Matlab, STATA and SAS application
 
 If you have any further questions you are welcome to contact [RDM Support](rmd@cbs.dk).
 
