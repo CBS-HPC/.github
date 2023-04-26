@@ -7,9 +7,11 @@
 
 **vCPU:**	64 (32 virtual cores) 2x Intel Xeon Gold 6130 16-Core @ 2.10GHz
 
-**RAM:**	384 GB  DDR 4-2666
+**RAM:** 384 GB  DDR 4-2666
 
-**Price:**	5,49 DKK/hour
+**Price:** 5,49 DKK/hour
+
+**Description:** The full node consists of 2x Intel(R) Xeon(R) Gold 6130 CPU@2.10 GHz, 32 virtual cores/CPU, and 384 GB of memory.
 
 When setting up a Job it is possible to select between a large of range of machine sizes: 
 
