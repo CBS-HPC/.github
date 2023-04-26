@@ -73,7 +73,7 @@ International research collaborators can gain acess to UCloud if they have a **"
 ## Licensed Software
 There are several types of licensed software that can be run on UCloud. 
 
-### MATLAB
+#### MATLAB
 
 [Matlab UCloud App](https://cloud.sdu.dk/app/jobs/create?app=matlab&version=r2022b-2)
 
@@ -83,13 +83,13 @@ There are several types of licensed software that can be run on UCloud.
 
 
 
-### Stata
+#### Stata
 
 [Stata UCloud App](https://cloud.sdu.dk/app/jobs/create?app=stata&version=17)
 
 [UCloud Stata Documentation](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
 
-### SAS & SAS Studio
+#### SAS & SAS Studio
 
 [SAS UCloud App] (https://cloud.sdu.dk/app/applications/search?q=Sas)
 
