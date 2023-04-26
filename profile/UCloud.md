@@ -86,11 +86,11 @@ There are several types of licensed software that can be run on UCloud.
 
 A Matlab [server license]() in order to run the application on UCloud. Once can be acquired through [CBS IT help desk](https://helpdesk.cbs.dk/Login/Login?ReturnUrl=%2f) at own expense.
 
-[Matlab UCloud App](https://cloud.sdu.dk/app/jobs/create?app=matlab&version=r2022b-2)
+- [Matlab UCloud App](https://cloud.sdu.dk/app/jobs/create?app=matlab&version=r2022b-2)
 
-[UCloud Matlab Documentation](https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license)
+- [UCloud Matlab Documentation](https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license)
 
-[UCloud video tutorial](https://www.youtube.com/watch?v=fZw7OwiPfTw) Matlab walkthrough starts at 16:00 minutes into the video. Shows how activate Matlab with a personal license.
+- [UCloud video tutorial](https://www.youtube.com/watch?v=fZw7OwiPfTw) Matlab walkthrough starts at 16:00 minutes into the video. Shows how activate Matlab with a personal license.
 
 #### STATA
 
@@ -98,15 +98,15 @@ Users can either upload their own personal STATA license (.lic file) to UCloud o
 
 After being granted the license the user should perform the following [steps](). 
 
-[STATA UCloud App](https://cloud.sdu.dk/app/jobs/create?app=stata&version=17)
+- [STATA UCloud App](https://cloud.sdu.dk/app/jobs/create?app=stata&version=17)
 
-[UCloud STATA Documentation](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
+- [UCloud STATA Documentation](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
 
 
 #### SAS & SAS Studio
 
 Users can either upload their own personal SAS license or apply for one through a [UCloud Grant Application](https://github.com/CBS-HPC/.github/blob/main/profile/GrantApp.md).
 
-[SAS UCloud App](https://cloud.sdu.dk/app/applications/search?q=Sas)
+- [SAS UCloud App](https://cloud.sdu.dk/app/applications/search?q=Sas)
 
-[UCloud SAS Documentation](https://docs.cloud.sdu.dk/search.html?q=SAS&check_keywords=yes&area=default#)
+- [UCloud SAS Documentation](https://docs.cloud.sdu.dk/search.html?q=SAS&check_keywords=yes&area=default#)
