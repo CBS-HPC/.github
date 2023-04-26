@@ -9,7 +9,7 @@ If you have any further questions you are welcome to contact [RDM Support](rmd@c
 ![](images/grant2.PNG)
 ![](images/grant3.PNG)
 
-## Add Serer License
+## Add Server License
 
 ### Step 1: Apply for Server License through [UCloud Grant Application](https://github.com/CBS-HPC/.github/blob/main/profile/GrantApp.md)
 
