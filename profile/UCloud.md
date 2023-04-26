@@ -94,12 +94,18 @@ A Matlab [server license]() in order to run the application on UCloud. Once can 
 
 #### STATA
 
+Users can either upload their own personal STATA license (.lic file) to UCloud or apply for one through a [UCloud Grant Application](https://github.com/CBS-HPC/.github/blob/main/profile/GrantApp.md).
+
+After being granted the license the user should perform the following [steps](). 
+
 [STATA UCloud App](https://cloud.sdu.dk/app/jobs/create?app=stata&version=17)
 
 [UCloud STATA Documentation](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
 
 
 #### SAS & SAS Studio
+
+Users can either upload their own personal SAS license or apply for one through a [UCloud Grant Application](https://github.com/CBS-HPC/.github/blob/main/profile/GrantApp.md).
 
 [SAS UCloud App] (https://cloud.sdu.dk/app/applications/search?q=Sas)
 
