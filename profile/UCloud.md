@@ -79,7 +79,7 @@ Still in the making
 #### UCloud Access for International Collaborators
 International research collaborators can gain acess to UCloud if they have a **"visiting researcher premission"(gæsteforskeradgang)** to CBS. One can be obtained by contacting [CBS HR](HR@cbs.dk).
 
-## Licensed Software
+## License Software
 There are several types of licensed software that can be run on UCloud. 
 
 #### MATLAB
