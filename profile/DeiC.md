@@ -12,7 +12,7 @@ This type of HPC system typically has a large number of cores which can be a mix
 
 [Computerome 2.0](https://escience.sdu.dk/index.php/type-2-computerome/)  &nbsp;&nbsp; | &nbsp;&nbsp;
 [GenomeDK](https://escience.sdu.dk/index.php/type-2-genomedk/) &nbsp;&nbsp; | &nbsp;&nbsp;
-[Sophia](https://escience.sdu.dk/index.php/type-2-sofia/) &nbsp;&nbsp; | &nbsp;&nbsp;
+[Sophia](https://escience.sdu.dk/index.php/type-2-sofia/)
 
 ## Type 3 – Large Memory HPC 
 This type of HPC system focuses on problem solving, with a structure that cannot be easily or efficiently distributed between many computer nodes. This is a type of system that is characterized by typically relatively few cores with access to a large globally addressable memory area. 
