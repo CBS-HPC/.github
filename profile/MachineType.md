@@ -20,4 +20,19 @@ When setting up a Job it is possible to select between a large of range of machi
 ## DeiC Interactive HPC (AAU) / uc-t4 (GPU)
 [AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](). It is possible to set up interactive enviroments such as [JupyterLab](https://hpc.ruc.dk/blog/tutorials/setting-up-jupyternotebook-with-gpus-on-aau/).
 
+
+### The Largest node 
+
+**Name:**	uc-t4-4
+
+**vCPU:**	40 cores
+
+**RAM:** 160 GB
+
+**GPU:**	4
+
+**Price:**	33,99 DKK/hour
+
+**Description:**	Virtual machine with four NVIDIA T4 GPUs deployed on the AAU OpenStack system.
+
 ![](images/uc-t4.PNG)
