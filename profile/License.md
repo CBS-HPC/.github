@@ -13,7 +13,7 @@ If you have any further questions you are welcome to contact [RDM Support](rmd@c
 
 ### Step 1: Apply for Server License through [UCloud Grant Application](https://github.com/CBS-HPC/.github/blob/main/profile/GrantApp.md)
 
-### Step 2: Activate License (SAS 9.4 license show as example)
+### Step 2: Activate License (SAS 9.4 license shown as example)
 ![](images/license4.PNG)
 ![](images/license5.PNG)
 ![](images/license6.PNG)
