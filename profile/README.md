@@ -2,7 +2,6 @@
 This GitHub repository is...
 
 ### DeiC Front Office at CBS
-
 CBS Front Office communicates with HPC system adminstrators (**Back Office**) and DeiC. Ideally, all user requests and troubleshooting should be send to the CBS [Front Office](rdm@cbs.dk) as a Single Point of Contact (SPOC) where resulting tickets will be directed accordingly. 
 
 This setup provides a better service to users and saves valuable time for **Back Office** technicians who can concentrate on highly technical issues.
@@ -13,7 +12,6 @@ This setup provides a better service to users and saves valuable time for **Back
 [**Lars Nondal**](https://www.cbs.dk/en/about-cbs/organisation/shared-central-services/library/staff/lnlib) (ln.lib@cbs.dk)
 
 ## News
-
 [23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.](https://cloud.sdu.dk/app/news/detailed/345)
 
 [23-04-18 - New Tutorial "Conda on UCloud"](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
