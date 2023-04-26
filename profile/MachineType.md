@@ -3,9 +3,7 @@
 ## DeiC Interactive HPC (SDU) / u1-standard (CPU)
 [SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
-### The Largest node 
-
-**Name:**	u1-standard-64
+### u1-standard-64 Specs
 
 **vCPU:**	64 (32 virtual cores) 2x Intel Xeon Gold 6130 16-Core @ 2.10GHz
 
@@ -21,9 +19,7 @@ When setting up a Job it is possible to select between a large of range of machi
 [AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](). It is possible to set up interactive enviroments such as [JupyterLab](https://hpc.ruc.dk/blog/tutorials/setting-up-jupyternotebook-with-gpus-on-aau/).
 
 
-### The Largest node 
-
-**Name:**	uc-t4-4
+### uc-t4-4 Specs
 
 **vCPU:**	40 cores
 
