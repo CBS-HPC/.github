@@ -13,8 +13,6 @@
 
 **Description:** The full node consists of 2x Intel(R) Xeon(R) Gold 6130 CPU@2.10 GHz, 32 virtual cores/CPU, and 384 GB of memory.
 
-When setting up a Job it is possible to select between a large of range of machine sizes: 
-
 ![](images/u1-standard.PNG)
 
 ## DeiC Interactive HPC (AAU) / uc-t4 (GPU)
