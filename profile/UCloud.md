@@ -3,7 +3,7 @@
 
 The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [UCloud](https://cloud.sdu.dk/). This service is provided by the Danish universities [SDU]() and [AAU]().
 
-The Following guide provides and introduction to the following:
+The following guide covers the follow:
 
 [Facility Overview]() &nbsp;&nbsp;| &nbsp;&nbsp;
 [Login onto UCloud]() &nbsp;&nbsp;| &nbsp;&nbsp;
