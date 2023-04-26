@@ -16,6 +16,7 @@ If you have any further questions you are welcome to contact [RDM Support](rmd@c
 ### Step 2: Activate License (SAS 9.4 license show as example)
 ![](images/license4.PNG)
 ![](images/license5.PNG)
-### Step 2: Select server license while setting up UCloud Job
 ![](images/license6.PNG)
+### Step 2: Select server license while setting up UCloud Job
 ![](images/license7.PNG)
+![](images/license8.PNG)
