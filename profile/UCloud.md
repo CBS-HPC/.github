@@ -11,7 +11,6 @@ The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [U
 
 More information can be found [here](https://github.com/CBS-HPC/.github/blob/main/profile/MachineType.md).
 
-
 ## Login onto UCloud
 
 You can login on to UCloud using WAYF (Where Are You From).[Login here](https://cloud.sdu.dk/app/login)
@@ -23,14 +22,19 @@ Upon the first login it is necessary to approve the SDU eScience [terms of servi
 
 **Note:** After login the user can activate [two factor authentication](https://docs.cloud.sdu.dk/guide/navigation-topbar.html#two-factor-authentication) by clicking on the avatar icon in the top-right corner of the home screen.
 
-
 ## Get started with UCloud
 All new users in UCloud are awarded a "My Workspace" with 1000 DKK of computing (CPU) resources to the ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud), as well as 50 GB remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. 
 
-["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI).
+["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI).[See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
-The largest machine (64 cores & 384 GB memory) cost 5.49kr/H so a 1000 DKK this provide approx. 182 hours of run time.
+**The largest machine (64 cores & 384 GB memory) cost 5.49kr/H so a 1000 DKK this provide approx. 182 hours of inital run time.**
 
+#### Licensed Software
+
+Still in the making
+
+- [MATLAB](https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license)
+- [Stata](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
 
 #### UCloud Tutorials and Documentations
 
