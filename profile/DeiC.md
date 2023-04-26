@@ -8,7 +8,7 @@ The type 1 system is mainly focused on interactive computing and easy access for
 ## Type 2 – Throughput HPC
 This type of HPC system typically has a large number of cores which can be a mix between cost-effective and calculation-efficient units. Type 2 also has the ability to handle large amounts of data and its main focus is on high-throughput performance.
 
-**There are three type 2 HPC systems available at national level for CBS researchers:**
+**Three Type 2 HPC systems are available:**
 
 [Computerome 2.0](https://escience.sdu.dk/index.php/type-2-computerome/)  &nbsp;&nbsp; | &nbsp;&nbsp;
 [GenomeDK](https://escience.sdu.dk/index.php/type-2-genomedk/) &nbsp;&nbsp; | &nbsp;&nbsp;
