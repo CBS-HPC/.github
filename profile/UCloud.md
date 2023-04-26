@@ -6,12 +6,16 @@ The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [U
 The Following guide provides and introduction to the following:
 
 [Facility Overview]()
-[Login onto UCloud]()
-[Get started with UCloud]()
-[Apply for Funds]()
-[Collaboration on UCloud]()
-[Licensed Software]()
 
+[Login onto UCloud]()
+
+[Get started with UCloud]()
+
+[Apply for Funds]()
+
+[Collaboration on UCloud]()
+
+[Licensed Software]()
 
 
 ## Facility Overview
