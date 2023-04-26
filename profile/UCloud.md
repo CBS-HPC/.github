@@ -107,6 +107,6 @@ After being granted the license the user should perform the following [steps]().
 
 Users can either upload their own personal SAS license or apply for one through a [UCloud Grant Application](https://github.com/CBS-HPC/.github/blob/main/profile/GrantApp.md).
 
-[SAS UCloud App] (https://cloud.sdu.dk/app/applications/search?q=Sas)
+[SAS UCloud App](https://cloud.sdu.dk/app/applications/search?q=Sas)
 
-[UCloud SAS Documentation](https://docs.cloud.sdu.dk/search.html?q=SAS&check_keywords=yes&area=default#
+[UCloud SAS Documentation](https://docs.cloud.sdu.dk/search.html?q=SAS&check_keywords=yes&area=default#)
