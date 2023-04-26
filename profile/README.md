@@ -12,12 +12,12 @@ This setup provides a better service to users and saves valuable time for **Back
 [**Lars Nondal**](https://www.cbs.dk/en/about-cbs/organisation/shared-central-services/library/staff/lnlib) (ln.lib@cbs.dk)
 
 ### Sections
-[News]() &nbsp;&nbsp; |  &nbsp;&nbsp; 
-[Upcoming Events]() &nbsp;&nbsp; |  &nbsp;&nbsp; 
-[HPC Grant Applications]() &nbsp;&nbsp; |  &nbsp;&nbsp; 
-[Available HPC Facilities]() &nbsp;&nbsp; |  &nbsp;&nbsp; 
-[Tutorials & HPC Documentation]() &nbsp;&nbsp; |  &nbsp;&nbsp; 
-[External Links]()
+[News](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#news) &nbsp;&nbsp; |  &nbsp;&nbsp; 
+[Upcoming Events](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#upcoming-events) &nbsp;&nbsp; |  &nbsp;&nbsp; 
+[HPC Grant Applications](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#hpc-grant-applications) &nbsp;&nbsp; |  &nbsp;&nbsp; 
+[Available HPC Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#available-hpc-facilities) &nbsp;&nbsp; |  &nbsp;&nbsp; 
+[Tutorials & HPC Documentation](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#tutorials--hpc-documentation) &nbsp;&nbsp; |  &nbsp;&nbsp; 
+[External Links](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#external-links)
 
 ## News
 [23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.](https://cloud.sdu.dk/app/news/detailed/345)
