@@ -90,7 +90,7 @@ A Matlab [server license]() in order to run the application on UCloud. Once can 
 
 - [UCloud Matlab Documentation](https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license)
 
-- [UCloud video tutorial](https://www.youtube.com/watch?v=fZw7OwiPfTw) Matlab walkthrough starts at 16:00 minutes into the video. Shows how activate Matlab with a personal license.
+- [UCloud video tutorial](https://www.youtube.com/watch?v=fZw7OwiPfTw) - Matlab walkthrough starts at 16:00 minutes into the video. Shows how activate Matlab with a personal license.
 
 #### STATA
 
