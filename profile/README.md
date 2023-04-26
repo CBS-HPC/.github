@@ -12,12 +12,12 @@ This setup provides a better service to users and saves valuable time for **Back
 [**Lars Nondal**](https://www.cbs.dk/en/about-cbs/organisation/shared-central-services/library/staff/lnlib) (ln.lib@cbs.dk)
 
 ### Sections
-[News]() &nbsp;&nbsp; | 
-[Upcoming Events]() &nbsp;&nbsp; | 
-[HPC Grant Applications]() &nbsp;&nbsp; | 
-[Available HPC Facilities]() &nbsp;&nbsp; | 
-[Tutorials & HPC Documentation]() &nbsp;&nbsp; | 
-[External Links]() &nbsp;&nbsp; | 
+[News]() &nbsp;&nbsp; |  &nbsp;&nbsp; 
+[Upcoming Events]() &nbsp;&nbsp; |  &nbsp;&nbsp; 
+[HPC Grant Applications]() &nbsp;&nbsp; |  &nbsp;&nbsp; 
+[Available HPC Facilities]() &nbsp;&nbsp; |  &nbsp;&nbsp; 
+[Tutorials & HPC Documentation]() &nbsp;&nbsp; |  &nbsp;&nbsp; 
+[External Links]()
 
 ## News
 [23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.](https://cloud.sdu.dk/app/news/detailed/345)
