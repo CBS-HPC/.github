@@ -74,6 +74,11 @@ International research collaborators can gain acess to UCloud if they have a **"
 
 Still in the making
 
-- [MATLAB](https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license)
-- [Stata](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
+### [MATLAB](https://cloud.sdu.dk/app/jobs/create?app=matlab&version=r2022b-2)
+[UCloud Documentation](https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license)
+
+
+### [Stata](https://cloud.sdu.dk/app/jobs/create?app=stata&version=17)
+
+[UCloud Documentation](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
 
