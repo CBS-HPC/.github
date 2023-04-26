@@ -29,13 +29,6 @@ All new users in UCloud are awarded a "My Workspace" with 1000 DKK of computing 
 
 **The largest machine (64 cores & 384 GB memory) cost 5.49kr/H so a 1000 DKK this provide approx. 182 hours of inital run time.**
 
-#### Licensed Software
-
-Still in the making
-
-- [MATLAB](https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license)
-- [Stata](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
-
 #### UCloud Tutorials and Documentations
 
 - [UCloud Tutorials - Introduction to UCloud (Hosted by UCloud)](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
@@ -77,4 +70,10 @@ Still in the making
 #### UCloud Access for International Collaborators
 International research collaborators can gain acess to UCloud if they have a **"visiting researcher premission"(gæsteforskeradgang)** to CBS. One can be obtained by contacting [CBS HR](HR@cbs.dk).
 
+### Licensed Software
+
+Still in the making
+
+- [MATLAB](https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license)
+- [Stata](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
 
