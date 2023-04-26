@@ -8,7 +8,7 @@ This GitHub repository is...
 
 ## News
 
-[23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023. UCloud will lose connection to the Internet.](https://cloud.sdu.dk/app/news/detailed/345)
+[23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.](https://cloud.sdu.dk/app/news/detailed/345)
 
 [23-04-18 - New Tutorial "Conda on UCloud"](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
 
