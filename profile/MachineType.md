@@ -1,7 +1,7 @@
 # Machine Type 
 
 ## DeiC Interactive HPC (SDU) / u1-standard (CPU)
-[SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
+[SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
 ### The Largest node 
 
