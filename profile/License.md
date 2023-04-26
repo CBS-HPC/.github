@@ -3,11 +3,12 @@
 If you have any further questions you are welcome to contact [RDM Support](rmd@cbs.dk).
 
 ## Add Local License 
+
 ### Step 1: Upload local STATA (.lic file) or SAS (.txt file) license to UCloud
-![](images/license1.PNG)
+
 ### Step 2: Select the license file (.lic or .txt) while setting up UCloud Job
+![](images/license1.PNG)
 ![](images/license2.PNG)
-![](images/license3.PNG)
 
 ## Add Server License
 
@@ -17,6 +18,6 @@ If you have any further questions you are welcome to contact [RDM Support](rmd@c
 ![](images/license4.PNG)
 ![](images/license5.PNG)
 ![](images/license6.PNG)
-### Step 2: Select server license while setting up UCloud Job
+### Step 3: Select server license while setting up UCloud Job
 ![](images/license7.PNG)
 ![](images/license8.PNG)
