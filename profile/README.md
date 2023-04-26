@@ -1,7 +1,7 @@
 ## HPC & Data Science Support at CBS
 This GitHub repository is...
 
-### CBS DeiC Front Office
+#### CBS DeiC Front Office
 
 CBS Front Office communicates with HPC system adminstrators (**Back Office**) and DeiC. Ideally, all user requests and troubleshooting should be send to the CBS [Front Office](rdm@cbs.dk) as a Single Point of Contact (SPOC) where resulting tickets will be directed accordingly. 
 
