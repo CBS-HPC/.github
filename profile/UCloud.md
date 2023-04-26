@@ -75,15 +75,19 @@ There are several types of licensed software that can be run on UCloud.
 
 #### MATLAB
 
+A Matlab [server license]() in order to run the application on UCloud. Once can be acquired through[CBS IT help desk](https://helpdesk.cbs.dk/Login/Login?ReturnUrl=%2f) at own expense.
+
+**Links**:
+
 [Matlab UCloud App](https://cloud.sdu.dk/app/jobs/create?app=matlab&version=r2022b-2)
 
 [UCloud Matlab Documentation](https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license)
 
 [UCloud video tutorial](https://www.youtube.com/watch?v=fZw7OwiPfTw) Matlab walkthrough starts at 16:00 minutes into the video. Shows how activate Matlab with a personal license.
 
-A Matlab [server license]() in order to run the application on UCloud. Once can be acquired through[CBS IT help desk](https://helpdesk.cbs.dk/Login/Login?ReturnUrl=%2f) at own expense.
-
 #### STATA
+
+**Links**:
 
 [STATA UCloud App](https://cloud.sdu.dk/app/jobs/create?app=stata&version=17)
 
@@ -91,6 +95,8 @@ A Matlab [server license]() in order to run the application on UCloud. Once can 
 
 
 #### SAS & SAS Studio
+
+**Links**:
 
 [SAS UCloud App] (https://cloud.sdu.dk/app/applications/search?q=Sas)
 
