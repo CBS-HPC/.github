@@ -12,11 +12,16 @@ The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [U
 More information can be found [here](https://github.com/CBS-HPC/.github/blob/main/profile/MachineType.md).
 
 
-## Get access to UCloud
+## Login on to UCloud
 
-You can get access to UCloud through WAYF (Where Are You From) using our [CBS mail/password](https://cloud.sdu.dk/app/login) - select Copenhagen Business School as your affiliate institution on the login page. 
+You can login on to UCloud using WAYF (Where Are You From).[Login here](https://cloud.sdu.dk/app/login)
 
-Upon the first login it is necessary to approve the SDU eScience terms of service. Afterwards, the user is redirected to the UCloud user interface.
+- Select Copenhagen Business School as your affiliate institution on the login page. 
+- Signing in using your CBS mail account
+
+Upon the first login it is necessary to approve the SDU eScience [terms of service](https://legal.cloud.sdu.dk). Afterwards, the user is redirected to the UCloud user interface.
+
+**Note:** After login the user can activate [two factor authentication](https://docs.cloud.sdu.dk/guide/navigation-topbar.html#two-factor-authentication) by clicking on the avatar icon in the top-right corner of the home screen.
 
 
 ## Get started with UCloud
