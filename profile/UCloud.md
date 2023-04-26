@@ -12,7 +12,7 @@ The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [U
 More information can be found [here](https://github.com/CBS-HPC/.github/blob/main/profile/MachineType.md).
 
 
-## Login on to UCloud
+## Login onto UCloud
 
 You can login on to UCloud using WAYF (Where Are You From).[Login here](https://cloud.sdu.dk/app/login)
 
