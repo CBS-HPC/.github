@@ -71,14 +71,26 @@ Still in the making
 International research collaborators can gain acess to UCloud if they have a **"visiting researcher premission"(gæsteforskeradgang)** to CBS. One can be obtained by contacting [CBS HR](HR@cbs.dk).
 
 ## Licensed Software
+There are several types of licensed software that can be run on UCloud. 
 
-Still in the making
+### MATLAB
 
-### [MATLAB](https://cloud.sdu.dk/app/jobs/create?app=matlab&version=r2022b-2)
-[UCloud Documentation](https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license)
+[Matlab UCloud App](https://cloud.sdu.dk/app/jobs/create?app=matlab&version=r2022b-2)
+
+[UCloud Matlab Documentation](https://docs.cloud.sdu.dk/Apps/matlab.html?highlight=license)
+
+[UCloud video tutorial](https://www.youtube.com/watch?v=fZw7OwiPfTw) Matlab walkthrough starts at 16:00 minutes into the video. Shows how activate Matlab with a personal license.
 
 
-### [Stata](https://cloud.sdu.dk/app/jobs/create?app=stata&version=17)
 
-[UCloud Documentation](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
+### Stata
 
+[Stata UCloud App](https://cloud.sdu.dk/app/jobs/create?app=stata&version=17)
+
+[UCloud Stata Documentation](https://docs.cloud.sdu.dk/Apps/stata.html?highlight=license)
+
+### SAS & SAS Studio
+
+[SAS UCloud App] (https://cloud.sdu.dk/app/applications/search?q=Sas)
+
+[UCloud SAS Documentation](https://docs.cloud.sdu.dk/search.html?q=SAS&check_keywords=yes&area=default#
