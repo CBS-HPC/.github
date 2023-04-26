@@ -5,13 +5,13 @@
 
 ### The Largest node 
 
-Name:	u1-standard-64
+**Name:**	u1-standard-64
 
-vCPU:	64 (32 virtual cores) 2x Intel Xeon Gold 6130 16-Core @ 2.10GHz
+**vCPU:**	64 (32 virtual cores) 2x Intel Xeon Gold 6130 16-Core @ 2.10GHz
 
-RAM:	384 GB  DDR 4-2666
+**RAM:**	384 GB  DDR 4-2666
 
-Price:	5,49 DKK/hour
+**Price:**	5,49 DKK/hour
 
 When setting up a Job it is possible to select between a large of range of machine sizes: 
 
