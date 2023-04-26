@@ -1,7 +1,7 @@
 ## HPC & Data Science Support at CBS
 This GitHub repository is...
 
-## Role as CBS Front Office
+## CBS DeiC Front Office
 
 **CBS Front Office** communicates with HPC system adminstrators(**Back Office**) and DeiC. 
 
