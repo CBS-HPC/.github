@@ -10,7 +10,7 @@ The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [U
 [Get started with UCloud](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#get-started-with-ucloud) &nbsp;&nbsp;| &nbsp;&nbsp;
 [Apply for Funds](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#apply-for-funds) &nbsp;&nbsp;| &nbsp;&nbsp;
 [Collaboration on UCloud](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#collaboration-on-ucloud) &nbsp;&nbsp;| &nbsp;&nbsp;
-[License Software](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#licensed-software)
+[License Software](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#license-software)
 
 ## Facility Overview
 
