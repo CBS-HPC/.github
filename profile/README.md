@@ -7,7 +7,7 @@ CBS Front Office communicates with HPC system adminstrators (**Back Office**) an
 This setup provides a better service to users and saves valuable time for **Back Office** technicians who can concentrate on highly technical issues.
 
 ### Contact
-[**Research & Data Management @ CBS**](https://www.cbs.dk/en/research/cbs-research-profile/research-data-management) (rdm@cbs.dk) &nbsp;&nbsp;|&nbsp;&nbsp;
+**Research & Data Management @ CBS**(rdm@cbs.dk) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**Kristoffer Gulmark Poulsen**](https://www.cbs.dk/en/cbs/organisation/faellesadministrationen/bibliotek/staff/kgplib) (kgp.lib@cbs.dk) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**Lars Nondal**](https://www.cbs.dk/en/about-cbs/organisation/shared-central-services/library/staff/lnlib) (ln.lib@cbs.dk)
 
