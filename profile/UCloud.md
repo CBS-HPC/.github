@@ -22,7 +22,7 @@ More information can be found [here](https://github.com/CBS-HPC/.github/blob/mai
 
 ## Login onto UCloud
 
-You can login on to UCloud using WAYF (Where Are You From).[Login here](https://cloud.sdu.dk/app/login)
+You can login on to UCloud using WAYF (Where Are You From). Press [here](https://cloud.sdu.dk/app/login) to login.
 
 - Select Copenhagen Business School as your affiliate institution on the login page. 
 - Signing in using your CBS mail account
@@ -34,7 +34,7 @@ Upon the first login it is necessary to approve the SDU eScience [terms of servi
 ## Get started with UCloud
 All new users in UCloud are awarded a "My Workspace" with 1000 DKK of computing (CPU) resources to the ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud), as well as 50 GB remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. 
 
-["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI).[See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
+["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI). [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
 **The largest machine (64 cores & 384 GB memory) cost 5.49kr/H so a 1000 DKK this provide approx. 182 hours of inital run time.**
 
