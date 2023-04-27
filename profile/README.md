@@ -15,7 +15,7 @@ This GitHub repository is...
 
 ## Sections
 
-[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/section.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Activities.md#tutorials--user-utilities) &nbsp; 
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/section1.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Activities.md#tutorials--user-utilities) &nbsp; 
 
 
 [News](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#news) &nbsp; | &nbsp; 
