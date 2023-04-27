@@ -1,6 +1,7 @@
 ## HPC & Data Science Support at CBS
 This GitHub repository is...
 
+### Main Activities
 ![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities.png)
 
 ### DeiC Front Office at CBS
