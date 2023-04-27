@@ -54,7 +54,7 @@ This setup provides a better service to users and saves valuable time for **Back
 ## Tutorials & HPC Documentation
 [Getting Started with HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md) &nbsp;&nbsp;|&nbsp;&nbsp;
-[SLURM Clusters on UCloud](https://github.com/CBS-HPC/UCloud_SlurmCluster/blob/main/README.md) &nbsp;&nbsp;|&nbsp;&nbsp;
+[SLURM Clusters on UCloud](https://github.com/CBS-HPC/UCloud_SlurmCluster) &nbsp;&nbsp;|&nbsp;&nbsp;
 [Virtuel Machines on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/VMs/README.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**More**](https://github.com/CBS-HPC/Tutorials)
 
