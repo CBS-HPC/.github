@@ -14,7 +14,7 @@ This setup provides a better service to users and saves valuable time for **Back
 [**Kristoffer Gulmark Poulsen**](https://www.cbs.dk/en/cbs/organisation/faellesadministrationen/bibliotek/staff/kgplib) (kgp.lib@cbs.dk) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**Lars Nondal**](https://www.cbs.dk/en/about-cbs/organisation/shared-central-services/library/staff/lnlib) (ln.lib@cbs.dk)
 
-## Github Sections
+## Sections
 [News](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#news) &nbsp; | &nbsp; 
 [Upcoming Events](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#upcoming-events) &nbsp; | &nbsp; 
 [HPC Grant Applications](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#hpc-grant-applications) &nbsp; | &nbsp; 
@@ -22,7 +22,7 @@ This setup provides a better service to users and saves valuable time for **Back
 [Tutorials & HPC Documentation](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#tutorials--hpc-documentation) &nbsp; | &nbsp; 
 [External Links](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#external-links)
 
-### News
+## News
 [23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.](https://cloud.sdu.dk/app/news/detailed/345)
 
 [23-04-18 - New Tutorial "Conda on UCloud"](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
