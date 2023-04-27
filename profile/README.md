@@ -38,9 +38,9 @@ This GitHub repository is...
 ## Upcoming Events
 [![intro](https://github.com/CBS-HPC/.github/blob/main/profile/images/course_intro.jpg)&nbsp;&nbsp;23-06-08 @ 11.00-12.00: - High Performance Computing (For Researchers)](https://cbs.libcal.com/event/4007624)
 
-[![R](https://github.com/CBS-HPC/.github/blob/main/profile/images/course_R.jpg)&nbsp;&nbsp;23-06-14 @ 11.00-12.00: - HPC & Parallel Programming in R (For Researchers)](https://cbs.libcal.com/event/4030629)
+[![R](https://github.com/CBS-HPC/.github/blob/main/profile/images/course_R.PNG)&nbsp;&nbsp;23-06-14 @ 11.00-12.00: - HPC & Parallel Programming in R (For Researchers)](https://cbs.libcal.com/event/4030629)
 
-[![Python](https://github.com/CBS-HPC/.github/blob/main/profile/images/course_Python.jpg)&nbsp;&nbsp;23-06-25 @ 11.00-12.00: - HPC & Parallel Programming in Python (For Researchers)](https://cbs.libcal.com/event/4030635)
+[![Python](https://github.com/CBS-HPC/.github/blob/main/profile/images/course_python.PNG)&nbsp;&nbsp;23-06-25 @ 11.00-12.00: - HPC & Parallel Programming in Python (For Researchers)](https://cbs.libcal.com/event/4030635)
 
 [**More**](https://github.com/CBS-HPC/.github/blob/main/profile/Events.md)
 
