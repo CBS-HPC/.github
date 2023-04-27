@@ -8,13 +8,6 @@ This GitHub repository is...
 [![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities4.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Activities.md#daily-user-support)
 [![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities5.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Activities.md#research-consultancy)
 
-#### Daily User Support
-As Deic **Front Office** at CBS are we in charge off all communications with HPC system adminstrators (**Back Office**) and DeiC.
-
-Ideally, all user requests and troubleshooting should be send to the CBS Front Office(rdm@cbs.dk) as a Single Point of Contact (SPOC) where resulting tickets will be directed accordingly. 
-
-This setup provides a better service to users and saves valuable time for **Back Office** technicians who can concentrate on highly technical issues.
-
 ### Contact
 **Research & Data Management @ CBS** (rdm@cbs.dk) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**Kristoffer Gulmark Poulsen**](https://www.cbs.dk/en/cbs/organisation/faellesadministrationen/bibliotek/staff/kgplib) (kgp.lib@cbs.dk) &nbsp;&nbsp;|&nbsp;&nbsp;
