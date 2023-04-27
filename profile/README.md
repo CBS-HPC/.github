@@ -23,7 +23,10 @@ This GitHub repository is...
 [![External Links](https://github.com/CBS-HPC/.github/blob/main/profile/images/section6.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#external-links) &nbsp; 
 
 ## News
-[23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.](https://cloud.sdu.dk/app/news/detailed/345)
+[23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.
+
+![News](https://github.com/CBS-HPC/.github/blob/main/profile/images/section1.png)
+](https://cloud.sdu.dk/app/news/detailed/345)
 
 [23-04-18 - New Tutorial "Conda on UCloud"](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
 
