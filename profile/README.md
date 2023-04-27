@@ -14,6 +14,10 @@ This GitHub repository is...
 [**Lars Nondal**](https://www.cbs.dk/en/about-cbs/organisation/shared-central-services/library/staff/lnlib) (ln.lib@cbs.dk)
 
 ## Sections
+
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/section.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Activities.md#tutorials--user-utilities) &nbsp; 
+
+
 [News](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#news) &nbsp; | &nbsp; 
 [Upcoming Events](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#upcoming-events) &nbsp; | &nbsp; 
 [Grant Applications](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#grant-applications) &nbsp; | &nbsp; 
