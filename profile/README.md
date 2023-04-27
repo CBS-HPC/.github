@@ -2,7 +2,7 @@
 This GitHub repository is...
 
 ### Main Activities
-![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities.png)
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities.png)](https://www.cbs.dk/en/cbs/organisation/faellesadministrationen/bibliotek/staff/kgpli)
 
 #### Daily User Support
 As Deic **Front Office** at CBS are we in charge off all communications with HPC system adminstrators (**Back Office**) and DeiC.
