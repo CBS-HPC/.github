@@ -2,11 +2,11 @@
 This GitHub repository is...
 
 ### Main Activities
-[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities1.png)]()
-[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities2.png)]()
-[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities3.png)]()
-[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities4.png)]()
-[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities5.png)]()
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities1.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Activities.md#tutorials--user-utilities)
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities2.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Activities.md#teaching-activities)
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities3.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Activities.md#development-of-hpc-at-cbs)
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities4.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Activities.md#daily-user-support)
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities5.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Activities.md#research-consultancy)
 
 #### Daily User Support
 As Deic **Front Office** at CBS are we in charge off all communications with HPC system adminstrators (**Back Office**) and DeiC.
