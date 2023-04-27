@@ -43,17 +43,17 @@ This GitHub repository is...
 
 [**More**](https://github.com/CBS-HPC/.github/blob/main/profile/Events.md)
 
-## HPC Grant Applications
+## Grant Applications
 [EuroHPC JU Call for Proposals for Regular Access Mode  - (Deadline: 2023-07-07)](https://prace-ri.eu/call/eurohpc-ju-call-for-proposals-for-regular-access-mode-2023-07-07-cutoff/)
 
 [DeiC - Call H1-2024 Call for applications for access to the e- resources - (Deadline: July-August 2023)](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)
 
-## Available HPC Facilities
+## Available Facilities
 [National HPC Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [WRDS Cloud](https://github.com/CBS-HPC/.github/blob/main/profile/WRDS.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [Nationalt Genom Center HPC (Danish Statistics Data)](https://github.com/CBS-HPC/.github/blob/main/profile/NGC.md)
 
-## Tutorials & HPC Documentation
+## Tutorials & Documentation
 [Getting Started with HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [SLURM Clusters on UCloud](https://github.com/CBS-HPC/UCloud_SlurmCluster) &nbsp;&nbsp;|&nbsp;&nbsp;
