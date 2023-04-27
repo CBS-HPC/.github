@@ -56,6 +56,8 @@ This setup provides a better service to users and saves valuable time for **Back
 [DeiC - Call H1-2024 Call for applications for access to the e- resources - (Deadline: July-August 2023)](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)
 
 ## Available HPC Facilities
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/DeiC.jpg)]()
+
 [National HPC Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [WRDS Cloud](https://github.com/CBS-HPC/.github/blob/main/profile/WRDS.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [Nationalt Genom Center HPC (Danish Statistics Data)](https://github.com/CBS-HPC/.github/blob/main/profile/NGC.md)
