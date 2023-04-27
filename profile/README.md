@@ -20,7 +20,7 @@ This GitHub repository is...
 [![Grant Applications](https://github.com/CBS-HPC/.github/blob/main/profile/images/section3.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#grant-applications) &nbsp; 
 [![Available Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/images/section4.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#available-facilities) &nbsp; 
 [![Tutorials & Documentation](https://github.com/CBS-HPC/.github/blob/main/profile/images/section5.png)](https://github.com/CBS-HPC/Tutorials) &nbsp; 
-[![External Links](https://github.com/CBS-HPC/.github/blob/main/profile/images/section6.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#external-links) &nbsp; 
+[![External Links](https://github.com/CBS-HPC/.github/blob/main/profile/images/section6.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Links.md) &nbsp; 
 
 ## News
 [23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.](https://cloud.sdu.dk/app/news/detailed/345)
@@ -50,20 +50,7 @@ This GitHub repository is...
 [DeiC - Call H1-2024 Call for applications for access to the e- resources - (Deadline: July-August 2023)](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)
 
 ## Available Facilities
+[Getting Started with HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [National HPC Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [WRDS Cloud](https://github.com/CBS-HPC/.github/blob/main/profile/WRDS.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [Nationalt Genom Center HPC (Danish Statistics Data)](https://github.com/CBS-HPC/.github/blob/main/profile/NGC.md)
-
-## Tutorials & Documentation
-[Getting Started with HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;|&nbsp;&nbsp;
-[Conda on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md) &nbsp;&nbsp;|&nbsp;&nbsp;
-[SLURM Clusters on UCloud](https://github.com/CBS-HPC/UCloud_SlurmCluster) &nbsp;&nbsp;|&nbsp;&nbsp;
-[Virtuel Machines on UCloud](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/VMs/README.md) &nbsp;&nbsp;|&nbsp;&nbsp;
-[**More**](https://github.com/CBS-HPC/Tutorials)
-
-## External Links
-[Deic HPC GitHub](https://github.com/DeiC-HPC) &nbsp;&nbsp;|&nbsp;&nbsp; 
-[RUC HPC](https://hpc.ruc.dk/) &nbsp;&nbsp;|&nbsp;&nbsp;
-[Code Refinery](https://coderefinery.org/) &nbsp;&nbsp;|&nbsp;&nbsp;
-[DTU Sophia GitHub](https://dtu-sophia.github.io/docs/) &nbsp;&nbsp;|&nbsp;&nbsp;
-[**More**](https://github.com/CBS-HPC/.github/blob/main/profile/Links.md)
