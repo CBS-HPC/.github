@@ -18,7 +18,7 @@ This GitHub repository is...
 [Upcoming Events](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#upcoming-events) &nbsp; | &nbsp; 
 [Grant Applications](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#grant-applications) &nbsp; | &nbsp; 
 [Available Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#available-facilities) &nbsp; | &nbsp; 
-[Tutorials & Documentation](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#tutorials-documentation) &nbsp; | &nbsp; 
+[Tutorials & Documentation](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#tutorials--documentation) &nbsp; | &nbsp; 
 [External Links](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#external-links)
 
 ## News
