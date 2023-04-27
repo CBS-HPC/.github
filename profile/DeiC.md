@@ -1,3 +1,6 @@
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/DeiC.jpg)](https://www.deic.dk/) 
+
+
 # National HPC Facilities
 
 This page provides an overview of the [national HPC facilities (overview provided by DeiC)](https://www.deic.dk/en/supercomputing/national-hpc-facilities). **CBS researchers seeking access to Type 2 to 5 HPC systems (described below) should contact CBS Frontoffice at rdm@cbs.dk***
