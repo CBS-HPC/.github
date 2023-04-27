@@ -36,7 +36,7 @@ This GitHub repository is...
 [**Older**](https://github.com/CBS-HPC/.github/blob/main/profile/News.md)
 
 ## Upcoming Events
-[23-06-08 @ 11.00-12.00: - High Performance Computing (For Researchers)](https://cbs.libcal.com/event/4007624)
+[![intro](https://github.com/CBS-HPC/.github/blob/main/profile/images/course_intro.jpg)&nbsp;&nbsp;23-06-08 @ 11.00-12.00: - High Performance Computing (For Researchers)](https://cbs.libcal.com/event/4007624)
 
 [23-06-14 @ 11.00-12.00: - HPC & Parallel Programming in R (For Researchers)](https://cbs.libcal.com/event/4030629)
 
