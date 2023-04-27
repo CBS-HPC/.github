@@ -14,7 +14,7 @@ This setup provides a better service to users and saves valuable time for **Back
 [**Kristoffer Gulmark Poulsen**](https://www.cbs.dk/en/cbs/organisation/faellesadministrationen/bibliotek/staff/kgplib) (kgp.lib@cbs.dk) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**Lars Nondal**](https://www.cbs.dk/en/about-cbs/organisation/shared-central-services/library/staff/lnlib) (ln.lib@cbs.dk)
 
-### Sections
+### Github Sections
 [News](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#news) &nbsp; | &nbsp; 
 [Upcoming Events](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#upcoming-events) &nbsp; | &nbsp; 
 [HPC Grant Applications](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#hpc-grant-applications) &nbsp; | &nbsp; 
