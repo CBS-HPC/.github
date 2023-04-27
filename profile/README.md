@@ -15,8 +15,12 @@ This GitHub repository is...
 
 ## Sections
 
-[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/section1.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Activities.md#tutorials--user-utilities) &nbsp; 
-
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/section1.png)]() &nbsp; 
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/section2.png)]() &nbsp; 
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/section3.png)]() &nbsp; 
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/section4.png)]() &nbsp; 
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/section5.png)]() &nbsp; 
+[![](https://github.com/CBS-HPC/.github/blob/main/profile/images/section6.png)]() &nbsp; 
 
 [News](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#news) &nbsp; | &nbsp; 
 [Upcoming Events](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#upcoming-events) &nbsp; | &nbsp; 
