@@ -22,13 +22,6 @@ This GitHub repository is...
 [![Tutorials & Documentation](https://github.com/CBS-HPC/.github/blob/main/profile/images/section5.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#tutorials--documentation) &nbsp; 
 [![External Links](https://github.com/CBS-HPC/.github/blob/main/profile/images/section6.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#external-links) &nbsp; 
 
-[News](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#news) &nbsp; | &nbsp; 
-[Upcoming Events](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#upcoming-events) &nbsp; | &nbsp; 
-[Grant Applications](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#grant-applications) &nbsp; | &nbsp; 
-[Available Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#available-facilities) &nbsp; | &nbsp; 
-[Tutorials & Documentation](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#tutorials--documentation) &nbsp; | &nbsp; 
-[External Links](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#external-links)
-
 ## News
 [23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.](https://cloud.sdu.dk/app/news/detailed/345)
 
