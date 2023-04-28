@@ -12,7 +12,7 @@ The type 1 system is mainly focused on interactive computing and easy access for
 
 **More information is found [here](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md).**
 
-**Apply for Type 1 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#apply-for-funds).**
+**Apply for Type 1 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#apply-for-funds).**
 
 ## Type 2 – Throughput HPC
 Three Type 2 HPC systems are available (Computerome 2.0,GenomeDK and Sophia). This type of HPC system typically has a large number of cores which can be a mix between cost-effective and calculation-efficient units. Type 2 also has the ability to handle large amounts of data and its main focus is on high-throughput performance.
