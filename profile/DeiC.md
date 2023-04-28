@@ -8,9 +8,9 @@ This page provides an overview of the [national HPC facilities (overview provide
 **CBS researchers seeking access to Type 2 to 5 HPC systems (described below) should contact CBS Frontoffice at rdm@cbs.dk**
 
 ## Type 1 – Interactive HPC (UCloud)
-The type 1 system is mainly focused on interactive computing and easy access for users. The system is made of the YouGene cluster hosted at SDU. CBS staff and students can access the cluster resources via [UCloud](https://cloud.sdu.dk/app/). For more details click [here](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md).
+The type 1 system is mainly focused on interactive computing and easy access for users. The system is made of the YouGene cluster hosted at SDU. CBS staff and students can access the cluster resources via [UCloud](https://cloud.sdu.dk/app/).
 
-**More information is found [here](https://github.com/CBS-HPC/.github/blob/main/profile/MachineType.md#type-1---deic-interactive-hpc).**
+**More information is found [here](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md).**
 
 ## Type 2 – Throughput HPC
 Three Type 2 HPC systems are available (Computerome 2.0,GenomeDK and Sophia). This type of HPC system typically has a large number of cores which can be a mix between cost-effective and calculation-efficient units. Type 2 also has the ability to handle large amounts of data and its main focus is on high-throughput performance.
