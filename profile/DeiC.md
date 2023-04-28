@@ -8,12 +8,12 @@ This page provides an overview of the [national HPC facilities (overview provide
 #### CBS researchers seeking access to Type 2 to 5 HPC systems (described below) should contact CBS Frontoffice at rdm@cbs.dk
 
 ## Type 1 – Interactive HPC (UCloud)
-The type 1 system is mainly focused on interactive computing and easy access for users. The system is made of the YouGene cluster hosted at SDU. CBS staff and students can access the cluster resources via [UCloud](https://cloud.sdu.dk/app/).**Get for Type 1 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#apply-for-funds).**
+The type 1 system is mainly focused on interactive computing and easy access for users. The system is made of the YouGene cluster hosted at SDU. CBS staff and students can access the cluster resources via [UCloud](https://cloud.sdu.dk/app/). **Get for Type 1 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#apply-for-funds).**
 
 **More information is found [here](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md).**
 
 ## Type 2 – Throughput HPC
-Three Type 2 HPC systems are available (Computerome 2.0,GenomeDK and Sophia). This type of HPC system typically has a large number of cores which can be a mix between cost-effective and calculation-efficient units. Type 2 also has the ability to handle large amounts of data and its main focus is on high-throughput performance.**Get for Type 2 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md#get-resources).**
+Three Type 2 HPC systems are available (Computerome 2.0,GenomeDK and Sophia). This type of HPC system typically has a large number of cores which can be a mix between cost-effective and calculation-efficient units. Type 2 also has the ability to handle large amounts of data and its main focus is on high-throughput performance. **Get for Type 2 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md#get-resources).**
 
 **More information is found here:**
 
@@ -23,7 +23,7 @@ Three Type 2 HPC systems are available (Computerome 2.0,GenomeDK and Sophia). Th
 
 ## Type 3 – Large Memory HPC (Hippo)
 This type of HPC system focuses on problem solving, with a structure that cannot be easily or efficiently distributed between many computer nodes. This is a type of system that is characterized by typically relatively few cores with access to a large globally addressable memory area. 
-Type 3 is hosted and maintained at SDU. For the cluster specs check [here](https://escience.sdu.dk/index.php/type-3-large-memory-hpc/). The user guide can be found at this [link](https://docs.hpc-type3.sdu.dk/).**Get for Type 3 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md#get-resources).**
+Type 3 is hosted and maintained at SDU. For the cluster specs check [here](https://escience.sdu.dk/index.php/type-3-large-memory-hpc/). The user guide can be found at this [link](https://docs.hpc-type3.sdu.dk/). **Get for Type 3 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md#get-resources).**
 
 **More information is found [here](https://escience.sdu.dk/index.php/type-3-large-memory-hpc/).**
 
