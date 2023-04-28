@@ -24,13 +24,13 @@ Click on the activities below to find out more.
 [![Tutorials & Documentation](https://github.com/CBS-HPC/.github/blob/main/profile/images/section5.png)](https://github.com/CBS-HPC/Tutorials) &nbsp; 
 [![External Links](https://github.com/CBS-HPC/.github/blob/main/profile/images/section6.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Links.md) &nbsp; 
 
-### Available Facilities
+## Available Facilities
 [**UCloud** (Getting Started with HPC)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**DeiC HPC**](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**WRDS Cloud**](https://github.com/CBS-HPC/.github/blob/main/profile/WRDS.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**NGC HPC (DST)**](https://github.com/CBS-HPC/.github/blob/main/profile/NGC.md)
 
-### News
+## News
 - [23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.](https://cloud.sdu.dk/app/news/detailed/345)
 - [23-04-18 - New Tutorial "Conda on UCloud"](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
 - [23-04-12 - New milestone as DeiC Interactive HPC reaches 6,000 users](https://interactivehpc.dk/?p=1296)
@@ -38,7 +38,7 @@ Click on the activities below to find out more.
 - [23-03-15 - Launch of the DeiC Integration Portal](https://interactivehpc.dk/?p=1273)
 - [**Older**](https://github.com/CBS-HPC/.github/blob/main/profile/News.md)
 
-### Upcoming Events
+## Upcoming Events
 [![intro](https://github.com/CBS-HPC/.github/blob/main/profile/images/course_intro.jpg)&nbsp;&nbsp;23-06-14 @ 11.00-12.00: - High Performance Computing (For Researchers)](https://cbs.libcal.com/event/4007624)
 
 [![R](https://github.com/CBS-HPC/.github/blob/main/profile/images/course_R.png)&nbsp;&nbsp;23-06-14 @ 11.00-12.00: - HPC & Parallel Programming in R (For Researchers)](https://cbs.libcal.com/event/4030629)
@@ -47,6 +47,6 @@ Click on the activities below to find out more.
 
 [**More**](https://github.com/CBS-HPC/.github/blob/main/profile/Events.md)
 
-### Grant Applications
+## Grant Applications
 - [EuroHPC JU Call for Proposals for Regular Access Mode  - (Deadline: 2023-07-07)](https://prace-ri.eu/call/eurohpc-ju-call-for-proposals-for-regular-access-mode-2023-07-07-cutoff/)
 - [DeiC - Call H1-2024 Call for applications for access to the e- resources - (Deadline: July-August 2023)](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)
