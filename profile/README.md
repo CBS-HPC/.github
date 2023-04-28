@@ -16,8 +16,6 @@ Click on the activities below to find out more.
 [**Kristoffer Gulmark Poulsen**](https://www.cbs.dk/en/cbs/organisation/faellesadministrationen/bibliotek/staff/kgplib) (kgp.lib@cbs.dk) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**Lars Nondal**](https://www.cbs.dk/en/about-cbs/organisation/shared-central-services/library/staff/lnlib) (ln.lib@cbs.dk)
 
-## Sections
-
 [![News](https://github.com/CBS-HPC/.github/blob/main/profile/images/section1.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#news) &nbsp; 
 [![Available Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/images/section4.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#available-facilities) &nbsp; 
 [![Upcoming Events](https://github.com/CBS-HPC/.github/blob/main/profile/images/section2.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#upcoming-events) &nbsp; 
