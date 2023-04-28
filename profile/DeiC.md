@@ -35,7 +35,14 @@ LUMI Capability HPC provides a similar setup to DeiC Throughput HPC but with inc
 
 ## Get Resources
 
-#### CBS researchers seeking access to Type 2 to 5 HPC systems (described below) should contact CBS Frontoffice at rdm@cbs.dk
+### Local Resources
+
+### Sandbox Resources
+CBS researchers wanting to test out HPC systems Type 2 to 5 can gain acess to sandbox ressources by contacting CBS front office(rdm@cbs.dk).  
+
+### Grant Applications
+
+CBS researchers seeking access to Type 2 to 5 HPC systems (described below) should contact CBS Frontoffice at rdm@cbs.dk
 
 ## Relevant CBS GitHub Links 
 
