@@ -66,7 +66,17 @@ This number should be used to [acknowledge the use of national HPC](https://www.
 Still in the making
 
 #### International Collaborators
-International research collaborators can gain acess to UCloud if they have a **"visiting researcher premission"(gæsteforskeradgang)** to CBS. One can be obtained by contacting [CBS HR](HR@cbs.dk).
+International researchers need a **"visiting researcher premission"(gæsteforskeradgang)** to CBS to gain access to UCloud. One can be obtained by contacting [CBS HR](HR@cbs.dk).
+
+Once this is in place CBS HPC support will contact the UCloud administration and provide the below shown information. Then the UCloud administration will contact the research by email to establish access.
+
+**Full name:**
+
+**Occupation:**
+
+**Organisation (University):**
+
+**Email (University):**
 
 ## License Software
 There are several types of licensed software that can be run on UCloud. 
