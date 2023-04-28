@@ -43,11 +43,9 @@ CBS researchers wanting to test out HPC systems Type 2 to 5 can gain acess to sa
 ### Grant Applications
 Find an overview of currently relevant grant application rounds [here](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#grant-applications). Please contact [RDM Support](rdm@cbs.dk) as soon as possible if you consider applying as we can aid in the application process.
 
-#### Type 1-3 
-Researcher can apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) for the national HPC resources. 
+**Type 1-3:** Researcher can apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) for the national HPC resources. 
 
-#### Type 5 & Other international HPC systems
-Researcher can apply for resources at [LUMI and other international HPC facilities](https://www.deic.dk/en/Supercomputing/International-HPC-Facilities). 
+**Type 5 & Other international HPC systems:** Researcher can apply for resources at [LUMI and other international HPC facilities](https://www.deic.dk/en/Supercomputing/International-HPC-Facilities). 
 
 ## Relevant CBS GitHub Links 
 - [DeiC Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md)
