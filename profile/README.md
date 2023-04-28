@@ -12,8 +12,6 @@ Click on the activities below to find out more.
 [![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities5.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Activities.md#research-consultancy)
 
 ### Contact 
-Please do not hesitate to contact us at the emails below.
-
 **Research & Data Management @ CBS** (rdm@cbs.dk) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**Kristoffer Gulmark Poulsen**](https://www.cbs.dk/en/cbs/organisation/faellesadministrationen/bibliotek/staff/kgplib) (kgp.lib@cbs.dk) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**Lars Nondal**](https://www.cbs.dk/en/about-cbs/organisation/shared-central-services/library/staff/lnlib) (ln.lib@cbs.dk)
