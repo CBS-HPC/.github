@@ -25,7 +25,7 @@ This is the GitHub repository for HPC & Data Science Support at CBS.
 
 ## Available Facilities
 [Getting Started with HPC (**UCloud**)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;|&nbsp;&nbsp;
-[**DeiC** HPC Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md) &nbsp;&nbsp;|&nbsp;&nbsp;
+[**DeiC HPC**](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**WRDS Cloud**](https://github.com/CBS-HPC/.github/blob/main/profile/WRDS.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**NGC HPC (DST)**](https://github.com/CBS-HPC/.github/blob/main/profile/NGC.md)
 
