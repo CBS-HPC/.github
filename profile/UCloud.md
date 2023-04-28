@@ -44,7 +44,7 @@ Start by watching the following UCloud tutorials:
 - [Manage Applications](https://docs.cloud.sdu.dk/tutorials/tutorial2.html)
 - [Manage Workspaces](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
 - [Use Cases](https://docs.cloud.sdu.dk/hands-on/use-cases.html)
-- [https://docs.cloud.sdu.dk/hands-on/webinars.html](webinars)
+- [Webinars](https://docs.cloud.sdu.dk/hands-on/webinars.html)
 - [UCloud Documentation](https://docs.cloud.sdu.dk/index.html)
 
 **More Tutorials and Documentation can be found [here](https://github.com/CBS-HPC/Tutorials)**
