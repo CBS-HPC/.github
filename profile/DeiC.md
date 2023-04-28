@@ -23,7 +23,7 @@ Three Type 2 HPC systems are available (Computerome 2.0,GenomeDK and Sophia). Th
 [GenomeDK](https://escience.sdu.dk/index.php/type-2-genomedk/) &nbsp;&nbsp; | &nbsp;&nbsp;
 [Sophia](https://escience.sdu.dk/index.php/type-2-sofia/)
 
-**Get for Type 2 resources [here]().**
+**Get for Type 2 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md#get-resources).**
 
 ## Type 3 – Large Memory HPC (Hippo)
 This type of HPC system focuses on problem solving, with a structure that cannot be easily or efficiently distributed between many computer nodes. This is a type of system that is characterized by typically relatively few cores with access to a large globally addressable memory area. 
@@ -31,7 +31,7 @@ Type 3 is hosted and maintained at SDU. For the cluster specs check [here](https
 
 **More information is found [here](https://escience.sdu.dk/index.php/type-3-large-memory-hpc/).**
 
-**Get for Type 3 resources [here]().**
+**Get for Type 3 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md#get-resources).**
 
 ## Type 5 – Capability HPC (LUMI)
 Type 5 is the European pre-exascale supercomputer LUMI. LUMI is an abbreviation for "Large Unified Modern Infrastructure", and will be located in CSC's data center in Kajaani, Finland. LUMI is one of three pre-exascale supercomputers to be build as part of the European EuroHPC project.
@@ -40,7 +40,7 @@ LUMI Capability HPC provides a similar setup to DeiC Throughput HPC but with inc
 
 **More information is found [here](https://escience.sdu.dk/index.php/lumi/).**
 
-**Get for Type 5 resources [here]().**
+**Get for Type 5 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md#get-resources).**
 
 ## Get Resources
 
