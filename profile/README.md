@@ -32,17 +32,12 @@ Click on the activities below to find out more.
 [**NGC HPC (DST)**](https://github.com/CBS-HPC/.github/blob/main/profile/NGC.md)
 
 ## News
-[23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.](https://cloud.sdu.dk/app/news/detailed/345)
-
-[23-04-18 - New Tutorial "Conda on UCloud"](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
-
-[23-04-12 - New milestone as DeiC Interactive HPC reaches 6,000 users](https://interactivehpc.dk/?p=1296)
-
-[23-03-17 - The cost of success – user overload on DeiC Interactive HPC](https://interactivehpc.dk/?p=1286)
-
-[23-03-15 - Launch of the DeiC Integration Portal](https://interactivehpc.dk/?p=1273)
-
-[**Older**](https://github.com/CBS-HPC/.github/blob/main/profile/News.md)
+- [23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.](https://cloud.sdu.dk/app/news/detailed/345)
+- [23-04-18 - New Tutorial "Conda on UCloud"](https://github.com/CBS-HPC/UCloud-Tutorials/blob/main/Conda/README.md)
+- [23-04-12 - New milestone as DeiC Interactive HPC reaches 6,000 users](https://interactivehpc.dk/?p=1296)
+- [23-03-17 - The cost of success – user overload on DeiC Interactive HPC](https://interactivehpc.dk/?p=1286)
+- [23-03-15 - Launch of the DeiC Integration Portal](https://interactivehpc.dk/?p=1273)
+- [**Older**](https://github.com/CBS-HPC/.github/blob/main/profile/News.md)
 
 ## Upcoming Events
 [![intro](https://github.com/CBS-HPC/.github/blob/main/profile/images/course_intro.jpg)&nbsp;&nbsp;23-06-14 @ 11.00-12.00: - High Performance Computing (For Researchers)](https://cbs.libcal.com/event/4007624)
