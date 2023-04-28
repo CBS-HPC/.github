@@ -21,14 +21,14 @@ This type of HPC system typically has a large number of cores which can be a mix
 [GenomeDK](https://escience.sdu.dk/index.php/type-2-genomedk/) &nbsp;&nbsp; | &nbsp;&nbsp;
 [Sophia](https://escience.sdu.dk/index.php/type-2-sofia/)
 
-## Type 3 – Large Memory HPC 
+## Type 3 – Large Memory HPC (Hippo)
 This type of HPC system focuses on problem solving, with a structure that cannot be easily or efficiently distributed between many computer nodes. This is a type of system that is characterized by typically relatively few cores with access to a large globally addressable memory area. 
 Type 3 is hosted and maintained at SDU. For the cluster specs check [here](https://escience.sdu.dk/index.php/type-3-large-memory-hpc/). The user guide can be found at this [link](https://docs.hpc-type3.sdu.dk/).
 
 **See system specifications [here](https://escience.sdu.dk/index.php/type-3-large-memory-hpc/).**
 
 
-## Type 5 – LUMI Capability HPC
+## Type 5 – Capability HPC (LUMI)
 Type 5 is the European pre-exascale supercomputer LUMI. LUMI is an abbreviation for "Large Unified Modern Infrastructure", and will be located in CSC's data center in Kajaani, Finland. LUMI is one of three pre-exascale supercomputers to be build as part of the European EuroHPC project.
 
 LUMI Capability HPC provides a similar setup to DeiC Throughput HPC but with increased possibilities by virtue of state-of-the-art hardware. Specifically the interconnections between compute nodes is designed to minimize latency thereby addressing the issue of communication induced latency in distributed-memory programs running on separate nodes. Additionally the user can obtain access to large amounts of disk space also with low-latency interconnects. In this way Capability HPC enables computations that are prohibitive with DeiC Throughput HPC due to communication latency.
