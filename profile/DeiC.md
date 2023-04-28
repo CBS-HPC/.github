@@ -12,7 +12,7 @@ The type 1 system is mainly focused on interactive computing and easy access for
 
 **More information is found [here](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md).**
 
-**Apply for Type 1 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#apply-for-funds).**
+**Get for Type 1 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#apply-for-funds).**
 
 ## Type 2 – Throughput HPC
 Three Type 2 HPC systems are available (Computerome 2.0,GenomeDK and Sophia). This type of HPC system typically has a large number of cores which can be a mix between cost-effective and calculation-efficient units. Type 2 also has the ability to handle large amounts of data and its main focus is on high-throughput performance.
@@ -23,7 +23,7 @@ Three Type 2 HPC systems are available (Computerome 2.0,GenomeDK and Sophia). Th
 [GenomeDK](https://escience.sdu.dk/index.php/type-2-genomedk/) &nbsp;&nbsp; | &nbsp;&nbsp;
 [Sophia](https://escience.sdu.dk/index.php/type-2-sofia/)
 
-**Apply for Type 2 resources [here]().**
+**Get for Type 2 resources [here]().**
 
 ## Type 3 – Large Memory HPC (Hippo)
 This type of HPC system focuses on problem solving, with a structure that cannot be easily or efficiently distributed between many computer nodes. This is a type of system that is characterized by typically relatively few cores with access to a large globally addressable memory area. 
@@ -31,7 +31,7 @@ Type 3 is hosted and maintained at SDU. For the cluster specs check [here](https
 
 **More information is found [here](https://escience.sdu.dk/index.php/type-3-large-memory-hpc/).**
 
-**Apply for Type 3 resources [here]().**
+**Get for Type 3 resources [here]().**
 
 ## Type 5 – Capability HPC (LUMI)
 Type 5 is the European pre-exascale supercomputer LUMI. LUMI is an abbreviation for "Large Unified Modern Infrastructure", and will be located in CSC's data center in Kajaani, Finland. LUMI is one of three pre-exascale supercomputers to be build as part of the European EuroHPC project.
@@ -40,7 +40,7 @@ LUMI Capability HPC provides a similar setup to DeiC Throughput HPC but with inc
 
 **More information is found [here](https://escience.sdu.dk/index.php/lumi/).**
 
-**Apply for Type 3 resources [here]().**
+**Get for Type 5 resources [here]().**
 
 ## Grant Applications
 
