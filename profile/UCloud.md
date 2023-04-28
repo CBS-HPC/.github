@@ -38,7 +38,16 @@ All new users in UCloud are awarded a "My Workspace" with 1000 DKK of computing 
 
 **The largest machine (64 cores & 384 GB memory) cost 5.49kr/H so a 1000 DKK this provide approx. 182 hours of inital run time.**
 
-**Overview of UCloud Tutorials and Documentation can be found [here](https://github.com/CBS-HPC/Tutorials)**
+Start by watching the following UCloud tutorials:
+
+- [Manage Files and Folders](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
+- [Manage Applications](https://docs.cloud.sdu.dk/tutorials/tutorial2.html)
+- [Manage Workspaces](https://docs.cloud.sdu.dk/tutorials/tutorial1.html)
+- [Use Cases](https://docs.cloud.sdu.dk/hands-on/use-cases.html)
+- [https://docs.cloud.sdu.dk/hands-on/webinars.html](webinars)
+- [UCloud Documentation](https://docs.cloud.sdu.dk/index.html)
+
+**More Tutorials and Documentation can be found [here](https://github.com/CBS-HPC/Tutorials)**
 
 ## Apply for Funds
 
