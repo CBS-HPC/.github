@@ -1,5 +1,9 @@
 # Type 1 - DeiC Interactive HPC
 
+
+Find more information [here](https://escience.sdu.dk/index.php/ucloud-yougene-cluster/).
+
+
 ## DeiC Interactive HPC (SDU) / u1-standard (CPU)
 [SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
