@@ -70,13 +70,13 @@ International researchers need a **"visiting researcher premission"(gæsteforske
 
 Once this is in place CBS HPC support will contact the UCloud administration and provide the below shown information. Then the UCloud administration will contact the research by email to establish access.
 
-**Full name:**
+- Full name:
 
-**Occupation:**
+- Occupation:
 
-**Organisation (University):**
+- Organisation (University):
 
-**Email (University):**
+- Email (University):
 
 ## License Software
 There are several types of licensed software that can be run on UCloud. 
