@@ -9,6 +9,8 @@
 
 ### u1-standard-64 Specs
 
+**Dell PowerEdge C6420**
+
 **vCPU:**	64 (32 virtual cores) 2x Intel Xeon Gold 6130 16-Core @ 2.10GHz
 
 **RAM:** 384 GB  DDR 4-2666
