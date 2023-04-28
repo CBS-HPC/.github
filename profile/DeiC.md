@@ -5,7 +5,7 @@
 
 This page provides an overview of the [national HPC facilities (overview provided by DeiC)](https://www.deic.dk/en/supercomputing/national-hpc-facilities). 
 
-### CBS researchers seeking access to Type 2 to 5 HPC systems (described below) should contact CBS Frontoffice at rdm@cbs.dk
+#### CBS researchers seeking access to Type 2 to 5 HPC systems (described below) should contact CBS Frontoffice at rdm@cbs.dk
 
 ## Type 1 – Interactive HPC (UCloud)
 The type 1 system is mainly focused on interactive computing and easy access for users. The system is made of the YouGene cluster hosted at SDU. CBS staff and students can access the cluster resources via [UCloud](https://cloud.sdu.dk/app/).
