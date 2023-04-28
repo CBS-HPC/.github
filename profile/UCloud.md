@@ -68,7 +68,7 @@ Still in the making
 #### International Collaborators
 International researchers need a **"visiting researcher premission"(gæsteforskeradgang)** to CBS to gain access to UCloud. One can be obtained by contacting [CBS HR](HR@cbs.dk).
 
-Once this is in place CBS HPC support will contact the UCloud administration and provide the below shown information. Then the UCloud administration will contact the research by email to establish access.
+Once this is in place CBS HPC support will contact the **UCloud Research Support Team** and provide the below shown information. 
 
 - Full name:
 
@@ -77,6 +77,8 @@ Once this is in place CBS HPC support will contact the UCloud administration and
 - Organisation (University):
 
 - Email (University):
+
+Subsequently, the **UCloud Research Support Team** will contact the researcher to verify their identity through a video meeting. A valid ID is needed. 
 
 ## License Software
 There are several types of licensed software that can be run on UCloud. 
