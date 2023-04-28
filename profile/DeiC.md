@@ -45,7 +45,7 @@ Find an overview of currently relevant grant application rounds [here](https://g
 
 **Type 1-3:** Researcher can apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) for the national HPC resources. 
 
-**Type 5 & Other international HPC systems:** Researcher can apply for resources at [LUMI and other international HPC facilities](https://www.deic.dk/en/Supercomputing/International-HPC-Facilities). 
+**Type 5 & other international HPC systems:** Researcher can apply for resources at [LUMI and other international HPC facilities](https://www.deic.dk/en/Supercomputing/International-HPC-Facilities). 
 
 ## Relevant CBS GitHub Links 
 - [DeiC Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md)
