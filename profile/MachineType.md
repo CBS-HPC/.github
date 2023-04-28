@@ -1,4 +1,6 @@
-# Machine Type 
+# HPC Specifications
+
+# Type 1 - DeiC Interactive HPC
 
 ## DeiC Interactive HPC (SDU) / u1-standard (CPU)
 [SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
@@ -35,3 +37,5 @@
 **Price:**	33,99 DKK/hour
 
 **Description:**	Virtual machine with four NVIDIA T4 GPUs deployed on the AAU OpenStack system.
+
+# Type 2 - DeiC Throughput HPC
