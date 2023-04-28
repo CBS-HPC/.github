@@ -1,5 +1,6 @@
 ## HPC & Data Science Support at CBS
-This GitHub repository is...
+
+This is the GitHub repository for HPC & Data Science Support at CBS.
 
 ### Main Activities
 [![](https://github.com/CBS-HPC/.github/blob/main/profile/images/activities1.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Activities.md#tutorials--user-utilities) &nbsp; 
