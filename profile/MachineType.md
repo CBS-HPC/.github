@@ -41,5 +41,3 @@ Find more information [here](https://escience.sdu.dk/index.php/ucloud-yougene-cl
 **Price:**	33,99 DKK/hour
 
 **Description:**	Virtual machine with four NVIDIA T4 GPUs deployed on the AAU OpenStack system.
-
-# Type 2 - DeiC Throughput HPC
