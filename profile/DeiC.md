@@ -42,7 +42,7 @@ LUMI Capability HPC provides a similar setup to DeiC Throughput HPC but with inc
 
 **Get for Type 5 resources [here]().**
 
-## Grant Applications
+## Get Resources
 
 
 
