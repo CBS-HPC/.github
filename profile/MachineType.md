@@ -1,5 +1,3 @@
-# HPC Specifications
-
 # Type 1 - DeiC Interactive HPC
 
 ## DeiC Interactive HPC (SDU) / u1-standard (CPU)
