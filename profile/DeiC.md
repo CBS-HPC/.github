@@ -38,27 +38,21 @@ LUMI Capability HPC provides a similar setup to DeiC Throughput HPC but with inc
 ### Local Resources
 
 ### Sandbox Resources
-CBS researchers wanting to test out HPC systems Type 2 to 5 can gain acess to sandbox ressources by contacting CBS front office(rdm@cbs.dk).  
+CBS researchers wanting to test out HPC systems Type 2 to 5 can gain acess to sandbox ressources by contacting CBS front office (rdm@cbs.dk). Find more information [here](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Access-to-HPC-Sandbox).
 
 ### Grant Applications
+Apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) for the national HPC resources. Please contact [RDM Support](rdm@cbs.dk) as soon as possible if you consider applying.
 
-CBS researchers seeking access to Type 2 to 5 HPC systems (described below) should contact CBS Frontoffice at rdm@cbs.dk
 
 ## Relevant CBS GitHub Links 
-
-[DeiC Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md)
-
-[UCloud Grant Application Guide](https://github.com/CBS-HPC/.github/blob/main/profile/GrantApp.md)
+- [DeiC Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md)
+- [UCloud Grant Application Guide](https://github.com/CBS-HPC/.github/blob/main/profile/GrantApp.md)
 
 ## External Links
-
-[Apply for national HPC resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)
-
-[Acknowledge the use of national HPC](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc) 
-
-[HPC operational status for users](https://status.cloud.sdu.dk/)
-
-[The EuroCC Knowledge Pool (Hosted by DeiC)](https://deic-hpc.github.io/EuroCC-knowledgepool/)
+- [Apply for national HPC resources](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)
+- [Acknowledge the use of national HPC](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Remember-to-acknowledge-the-use-of-national-hpc) 
+- [HPC operational status for users](https://status.cloud.sdu.dk/)
+- [The EuroCC Knowledge Pool (Hosted by DeiC)](https://deic-hpc.github.io/EuroCC-knowledgepool/)
 
 ## ***This page is adopted from the following sources:*** 
 
