@@ -41,7 +41,7 @@ Bi-yearly CBS are awarded **Local** HPC ressources that can be freely distribute
 CBS researchers wanting to test out HPC systems Type 2 to 5 can gain acess to sandbox ressources by contacting CBS front office (rdm@cbs.dk). Find more information [here](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Access-to-HPC-Sandbox).
 
 ### Grant Applications
-Find an overview of currently relevant grant application rounds [here](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#grant-applications). Please contact [RDM Support](rdm@cbs.dk) as soon as possible if you consider applying as we can aid in the application process.
+Find an overview of currently open application rounds [here](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#grant-applications). Please contact [RDM Support](rdm@cbs.dk) as soon as possible if you consider applying as we can aid in the application process.
 
 **Type 1-3:** Researcher can apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) for the national HPC resources. 
 
