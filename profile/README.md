@@ -48,7 +48,7 @@ Click on the activities below to find out more.
 [**More**](https://github.com/CBS-HPC/.github/blob/main/profile/Events.md)
 
 ## Grant Applications
-- **[Get Resources](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md#get-resources)**
+- **[Get Resources Guide](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md#get-resources)**
 
 ### Current Calls
 - [EuroHPC JU Call for Proposals for Regular Access Mode  - (Deadline: 2023-07-07)](https://prace-ri.eu/call/eurohpc-ju-call-for-proposals-for-regular-access-mode-2023-07-07-cutoff/)
