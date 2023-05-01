@@ -21,8 +21,7 @@ Click on the activities below to find out more.
 [![News](https://github.com/CBS-HPC/.github/blob/main/profile/images/section2.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#news) &nbsp; 
 [![Upcoming Events](https://github.com/CBS-HPC/.github/blob/main/profile/images/section2.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#upcoming-events) &nbsp; 
 [![Grant Applications](https://github.com/CBS-HPC/.github/blob/main/profile/images/section3.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#grant-applications) &nbsp; 
-[![Tutorials & Documentation](https://github.com/CBS-HPC/.github/blob/main/profile/images/section5.png)](https://github.com/CBS-HPC/Tutorials) &nbsp; 
-[![External Links](https://github.com/CBS-HPC/.github/blob/main/profile/images/section6.png)](https://github.com/CBS-HPC/.github/blob/main/profile/Links.md) &nbsp; 
+[![Tutorials & Documentation](https://github.com/CBS-HPC/.github/blob/main/profile/images/section5.png)](https://github.com/CBS-HPC/Tutorials)
 
 ## Available Facilities
 [**UCloud** (Getting Started with HPC)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;|&nbsp;&nbsp;
