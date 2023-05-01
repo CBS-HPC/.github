@@ -8,6 +8,7 @@ The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [U
 [Facility Overview](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#facility-overview) &nbsp;&nbsp;| &nbsp;&nbsp;
 [Login onto UCloud](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#login-onto-ucloud) &nbsp;&nbsp;| &nbsp;&nbsp;
 [Get started with UCloud](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#get-started-with-ucloud) &nbsp;&nbsp;| &nbsp;&nbsp;
+[User Support](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#get-started-with-ucloud) &nbsp;&nbsp;| &nbsp;&nbsp;
 [Apply for Funds](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#apply-for-funds) &nbsp;&nbsp;| &nbsp;&nbsp;
 [Collaboration on UCloud](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#collaboration-on-ucloud) &nbsp;&nbsp;| &nbsp;&nbsp;
 [License Software](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#license-software)
@@ -46,6 +47,8 @@ Start by watching the following UCloud tutorials:
 - [UCloud Documentation](https://docs.cloud.sdu.dk/index.html)
 
 **More Tutorials and Documentation can be found [here](https://github.com/CBS-HPC/Tutorials)**
+
+## User Support
 
 ## Apply for Funds
 
