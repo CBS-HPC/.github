@@ -23,7 +23,7 @@ Click on the activities below to find out more.
 [![Grant Applications](https://github.com/CBS-HPC/.github/blob/main/profile/images/section4.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#grant-applications) &nbsp; 
 [![Tutorials & Documentation](https://github.com/CBS-HPC/.github/blob/main/profile/images/section5.png)](https://github.com/CBS-HPC/Tutorials)
 
-## Available Facilities
+## HPC Facilities
 [**UCloud** (Getting Started with HPC)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**DeiC HPC**](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**WRDS Cloud**](https://github.com/CBS-HPC/.github/blob/main/profile/WRDS.md) &nbsp;&nbsp;|&nbsp;&nbsp;
