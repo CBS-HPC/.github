@@ -50,6 +50,10 @@ Start by watching the following UCloud tutorials:
 
 ## User Support
 
+All UCloud support should go through the CBS front office(rdm@cbs.dk). If problems cannot be solved locally the CBS Front office will take contact to the UCloud system adminstrators (**Back Office**). 
+
+This setup provides a better service to users and saves valuable time for **Back Office** technicians who can concentrate on highly technical issues.
+
 ## Apply for Funds
 
 ### Students
