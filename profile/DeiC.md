@@ -35,15 +35,15 @@ LUMI Capability HPC provides a similar setup to DeiC Throughput HPC but with inc
 ## Get Resources
 
 ### Local Resources
-Bi-yearly CBS are awarded **Local** HPC ressources that can be freely distributed to our researchers and students. 
+Bi-yearly CBS are awarded **Local** HPC ressources that can be freely distributed to our researchers and students. Currently, CBS only have **Local** Type 1 resources as the reflects our current user needs. 
 
-Currently, CBS only have **Local** Type 1 resources as the reflects our current user needs. Please contact CBS front office (rdm@cbs.dk) if you would like to CBS to request **Local** resources to Type 2 and 3.
+Please contact CBS front office (rdm@cbs.dk) if you would like to CBS to request **Local** resources to Type 2 and 3.
 
 ### Sandbox Resources
 CBS researchers wanting to test out HPC systems Type 2 to 5 can gain acess to sandbox ressources by contacting CBS front office (rdm@cbs.dk). Find more information [here](https://www.deic.dk/en/Supercomputing/Instructions-and-Guides/Access-to-HPC-Sandbox).
 
 ### Grant Applications
-Find an overview of currently open application rounds [here](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#grant-applications). Please contact [RDM Support](rdm@cbs.dk) as soon as possible if you consider applying as we can aid in the application process.
+Find an overview of currently open application rounds [here](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#current-calls). Please contact [RDM Support](rdm@cbs.dk) as soon as possible if you consider applying as we can aid in the application process.
 
 **Type 1-3:** Researcher can apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) for the national HPC resources. 
 
