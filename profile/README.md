@@ -27,7 +27,8 @@ Click on the activities below to find out more.
 [**UCloud** (Getting Started with HPC)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**DeiC HPC**](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md) &nbsp;&nbsp;|&nbsp;&nbsp;
 [**WRDS Cloud**](https://github.com/CBS-HPC/.github/blob/main/profile/WRDS.md) &nbsp;&nbsp;|&nbsp;&nbsp;
-[**NGC HPC (DST)**](https://github.com/CBS-HPC/.github/blob/main/profile/NGC.md)
+[**NGC HPC (DST)**](https://github.com/CBS-HPC/.github/blob/main/profile/NGC.md) &nbsp;&nbsp;|&nbsp;&nbsp;
+[**HPC Operational Status**](https://github.com/CBS-HPC/.github/blob/main/profile/status.md)
 
 ## News
 - [23-04-26 - UCloud scheduled maintenance between 8:00-10:00 on Wednesday 26/04/2023.](https://cloud.sdu.dk/app/news/detailed/345)
