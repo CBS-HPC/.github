@@ -19,8 +19,8 @@ Click on the activities below to find out more.
 ## Sections
 [![Available Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/images/section1.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#available-facilities) &nbsp; 
 [![News](https://github.com/CBS-HPC/.github/blob/main/profile/images/section2.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#news) &nbsp; 
-[![Upcoming Events](https://github.com/CBS-HPC/.github/blob/main/profile/images/section2.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#upcoming-events) &nbsp; 
-[![Grant Applications](https://github.com/CBS-HPC/.github/blob/main/profile/images/section3.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#grant-applications) &nbsp; 
+[![Upcoming Events](https://github.com/CBS-HPC/.github/blob/main/profile/images/section3.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#upcoming-events) &nbsp; 
+[![Grant Applications](https://github.com/CBS-HPC/.github/blob/main/profile/images/section4.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#grant-applications) &nbsp; 
 [![Tutorials & Documentation](https://github.com/CBS-HPC/.github/blob/main/profile/images/section5.png)](https://github.com/CBS-HPC/Tutorials)
 
 ## Available Facilities
