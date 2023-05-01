@@ -48,9 +48,8 @@ Click on the activities below to find out more.
 [**More**](https://github.com/CBS-HPC/.github/blob/main/profile/Events.md)
 
 ## Grant Applications
-- [UCloud application](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#apply-for-funds)
+- **[Get Resources](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md#get-resources)**
 
-
-### Current Application Rounds
+### Current Calls
 - [EuroHPC JU Call for Proposals for Regular Access Mode  - (Deadline: 2023-07-07)](https://prace-ri.eu/call/eurohpc-ju-call-for-proposals-for-regular-access-mode-2023-07-07-cutoff/)
 - [DeiC - Call H1-2024 Call for applications for access to the e- resources - (Deadline: July-August 2023)](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources)
