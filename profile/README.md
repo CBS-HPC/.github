@@ -17,7 +17,7 @@ Click on the activities below to find out more.
 [**Lars Nondal**](https://www.cbs.dk/en/about-cbs/organisation/shared-central-services/library/staff/lnlib) (ln.lib@cbs.dk)
 
 ## Sections
-[![Available Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/images/section14.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#available-facilities) &nbsp; 
+[![Available Facilities](https://github.com/CBS-HPC/.github/blob/main/profile/images/section1.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#available-facilities) &nbsp; 
 [![News](https://github.com/CBS-HPC/.github/blob/main/profile/images/section2.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#news) &nbsp; 
 [![Upcoming Events](https://github.com/CBS-HPC/.github/blob/main/profile/images/section2.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#upcoming-events) &nbsp; 
 [![Grant Applications](https://github.com/CBS-HPC/.github/blob/main/profile/images/section3.png)](https://github.com/CBS-HPC/.github/blob/main/profile/README.md#grant-applications) &nbsp; 
