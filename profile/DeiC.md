@@ -30,6 +30,8 @@ Type 5 is the European pre-exascale supercomputer LUMI. LUMI is an abbreviation 
 
 LUMI Capability HPC provides a similar setup to DeiC Throughput HPC but with increased possibilities by virtue of state-of-the-art hardware. Specifically the interconnections between compute nodes is designed to minimize latency thereby addressing the issue of communication induced latency in distributed-memory programs running on separate nodes. Additionally the user can obtain access to large amounts of disk space also with low-latency interconnects. In this way Capability HPC enables computations that are prohibitive with DeiC Throughput HPC due to communication latency. **Get for Type 5 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md#get-resources).**
 
+Online LUMI usage Dashboard can be found [here](https://metrics.hpc.csc.fi/d/-8RWOzyVz/lumi-public-status?orgId=1)
+
 **More information is found [here](https://escience.sdu.dk/index.php/lumi/).**
 
 ## Get Resources
