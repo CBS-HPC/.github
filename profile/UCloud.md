@@ -15,7 +15,7 @@ The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [U
 
 ## Facility Overview
 
-[SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as you would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
+[SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized (FORSTÅR FOLK DET? applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as they would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
 [AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](https://github.com/CBS-HPC/Tutorials/blob/main/VMs/README.md). It is possible to set up interactive enviroments such as [JupyterLab](https://hpc.ruc.dk/blog/tutorials/setting-up-jupyternotebook-with-gpus-on-aau/).More information can be found [here](https://github.com/CBS-HPC/.github/blob/main/profile/MachineType.md).
 
@@ -24,18 +24,18 @@ The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [U
 You can login on to UCloud using WAYF (Where Are You From). Press [here](https://cloud.sdu.dk/app/login) to login.
 
 - Select Copenhagen Business School as your affiliate institution on the login page. 
-- Signing in using your CBS mail account
+- Sign in using your CBS mail account
 
 Upon the first login it is necessary to approve the SDU eScience [terms of service](https://legal.cloud.sdu.dk). Afterwards, the user is redirected to the UCloud user interface.
 
 **Note:** After login the user can activate [two factor authentication](https://docs.cloud.sdu.dk/guide/navigation-topbar.html#two-factor-authentication) by clicking on the avatar icon in the top-right corner of the home screen.
 
 ## Get started with UCloud
-All new users in UCloud are awarded a "My Workspace" with 1000 DKK of computing (CPU) resources to the ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud), as well as 50 GB remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. 
+All new users in UCloud are awarded a "My Workspace" with 1000 DKK of computing (CPU only) resources to the ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud), as well as 50 GB remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. 
 
-["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI). [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
+["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI). [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). (GENTAGELSE)
 
-**The largest machine (64 cores & 384 GB memory) cost 5.49kr/H so a 1000 DKK this provide approx. 182 hours of inital run time.**
+**The largest machine (64 cores & 384 GB memory) cost 5.49kr/Hour. So the free 1000 DKK will give you access to approx. 182 hours of inital run time.**
 
 Start by watching the following UCloud tutorials:
 
@@ -57,7 +57,7 @@ This setup provides a better service to users and saves valuable time for **Back
 ## Apply for Funds
 
 ### Students
-CBS student can only have direct access to the initial 1000kr credit and 50gb storage. When you need more/other resources, it must go through your thesis supervisor who needs to apply for funds and invite you to join the UCloud project. 
+CBS student can only have direct access to the initial 1000kr credit and 50 GB storage. When you need more/other resources, it must go through your thesis supervisor who needs to apply for funds and invite you to join the UCloud project. 
 
 If this is not possible then you welcome to contact [RDM Support](rdm@cbs.dk) to discuss further.
 
