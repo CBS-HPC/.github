@@ -15,7 +15,7 @@ The easiest-to-use HCP service is DeiC Interactive HPC (Type 1) also known as [U
 
 ## Facility Overview
 
-[SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized (FORSTÅR FOLK DET? applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as they would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
+[SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as they would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
 
 [AAU](https://cloud.sdu.dk/app/providers/detailed/aau) provides primary **GPU** based [virtual machines](https://cloud.sdu.dk/app/applications/search?q=Virtual%20Machines). Access is obtained through terminal and [SSH](https://github.com/CBS-HPC/Tutorials/blob/main/VMs/README.md). It is possible to set up interactive enviroments such as [JupyterLab](https://hpc.ruc.dk/blog/tutorials/setting-up-jupyternotebook-with-gpus-on-aau/).More information can be found [here](https://github.com/CBS-HPC/.github/blob/main/profile/MachineType.md).
 
@@ -33,7 +33,7 @@ Upon the first login it is necessary to approve the SDU eScience [terms of servi
 ## Get started with UCloud
 All new users in UCloud are awarded a "My Workspace" with 1000 DKK of computing (CPU only) resources to the ["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud), as well as 50 GB remote storage. You can use these resources to get acquainted with the system, run test jobs, etc. 
 
-["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI). [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). (GENTAGELSE)
+["DeiC Interactive HPC (SDU)"](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides broadest ranges of containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI). [See all apps](https://docs.cloud.sdu.dk/Apps/type.html).
 
 **The largest machine (64 cores & 384 GB memory) cost 5.49kr/Hour. So the free 1000 DKK will give you access to approx. 182 hours of inital run time.**
 
