@@ -11,7 +11,8 @@ Type 3 is hosted and maintained at SDU.
 [Apply for Funds](https://github.com/CBS-HPC/.github/blob/main/profile/Hippo.md#apply-for-funds)
 
 ## Facility Overview
-For the cluster specs check [here](https://escience.sdu.dk/index.php/type-3-large-memory-hpc/). 
+
+The DeiC Large Memory HPC system is a system consisting of large memory nodes (between 1 and 4 TB RAM per node) configured as a traditional Slurm cluster. [See here for more information](https://cloud.sdu.dk/app/providers/detailed/hippo)
 
 ## Get started with Large Memory HPC (Hippo)
 
