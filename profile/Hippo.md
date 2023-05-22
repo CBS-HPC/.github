@@ -8,7 +8,7 @@ Type 3 is hosted and maintained at SDU.
 [Facility Overview](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#facility-overview) &nbsp;&nbsp;| &nbsp;&nbsp;
 [Get started with Large Memory HPC (Hippo)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#get-started-with-ucloud) &nbsp;&nbsp;| &nbsp;&nbsp;
 [User Support](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#user-support) &nbsp;&nbsp;| &nbsp;&nbsp;
-[Apply for Funds](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#apply-for-funds) &nbsp;&nbsp;| &nbsp;&nbsp;
+[Apply for Funds](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#apply-for-funds)
 
 ## Facility Overview
 For the cluster specs check [here](https://escience.sdu.dk/index.php/type-3-large-memory-hpc/). 
