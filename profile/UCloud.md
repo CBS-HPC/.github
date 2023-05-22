@@ -1,7 +1,5 @@
 # Type 1 – Interactive HPC (UCloud)
 
-## Getting Started with HPC
-
 The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [UCloud](https://cloud.sdu.dk/). This service is provided by the Danish universities **SDU** and **AAU**.
 
 **The following guide covers the follow:**
