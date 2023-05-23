@@ -5,6 +5,12 @@
 
 This page provides an overview of the [national HPC facilities (overview provided by DeiC)](https://www.deic.dk/en/supercomputing/national-hpc-facilities). 
 
+[Type 1 – Interactive HPC (UCloud)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#facility-overview) &nbsp;&nbsp;| &nbsp;&nbsp;
+[Type 2 – Throughput HPC](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#login-onto-ucloud) &nbsp;&nbsp;| &nbsp;&nbsp;
+[Type 3 – Large Memory HPC (Hippo)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#get-started-with-ucloud) &nbsp;&nbsp;| &nbsp;&nbsp;
+[Type 5 – Capability HPC (LUMI)](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#get-started-with-ucloud) &nbsp;&nbsp;| &nbsp;&nbsp;
+[Get Resources](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#get-started-with-ucloud)
+
 ## Type 1 – Interactive HPC (UCloud)
 The type 1 system is mainly focused on interactive computing and easy access for users. The system is made of the YouGene cluster hosted at SDU. CBS staff and students can access the cluster resources via [UCloud](https://cloud.sdu.dk/app/). 
 
