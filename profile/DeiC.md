@@ -27,7 +27,7 @@ Three Type 2 HPC systems are available (Computerome 2.0,GenomeDK and Sophia). Th
 This type of HPC system focuses on problem solving, with a structure that cannot be easily or efficiently distributed between many computer nodes. This is a type of system that is characterized by typically relatively few cores with access to a large globally addressable memory area. 
 Type 3 is hosted and maintained at SDU. For the cluster specs check [here](https://escience.sdu.dk/index.php/type-3-large-memory-hpc/). 
 
-**User guide can be found [here](https://docs.hpc-type3.sdu.dk/)*** 
+**User guide can be found [here](https://docs.hpc-type3.sdu.dk/)** 
 
 **Get for Type 3 resources [here](https://github.com/CBS-HPC/.github/blob/main/profile/DeiC.md#get-resources)**
 
