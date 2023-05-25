@@ -5,7 +5,7 @@ WRDS Cloud is a HPC service with the possibility to process the data avaliable o
 The ressource is **only** available for CBS staff. More information can be found [here](https://www.cbs.dk/en/library/databases/wrds-wharton-research-data-services).
 
 ## WRDS Cloud Documentation
--[WRCDS Cloud Introduction Video](https://wrds-www.wharton.upenn.edu/pages/grid-items/accessing-wrds-cloud/)
+- [WRCDS Cloud Introduction Video](https://wrds-www.wharton.upenn.edu/pages/grid-items/accessing-wrds-cloud/)
 
 
 ### For further information or support please contact us at:
