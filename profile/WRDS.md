@@ -14,7 +14,10 @@ WRDS Cloud is a HPC service with the possibility to process the data avaliable o
 - MATLAB 2016a +
 - Native PostgreSQL clients
 - ODBC- or JDBC-compliant clients
-    
+
+## Data Sets
+The WRDS Cloud offers access to all WRDS data, including the very large NYSE TAQ (Trade & Quote) databases. Just like any other WRDS service, your institution must have an active subscription to a dataset in order to access it, though we also offer several free datasets should you wish to demo our services.
+
 ## Get Access 
 The ressource is **only** available for CBS staff. More information can be found [here](https://www.cbs.dk/en/library/databases/wrds-wharton-research-data-services).
 
