@@ -2,13 +2,25 @@
 
 WRDS Cloud is a HPC service with the possibility to process the data avaliable on [WRDS- Wharton Research Data Services](https://wrds-www.wharton.upenn.edu/).
 
+## Available Software 
+The WRDS Cloud provides the following software for your research needs:
+- SAS 9.4
+- R 3.5
+- Python 3.6 and 2.7
+- Stata 15 (requires special subscription agreement with StataCorp)
+In addition, it further supports remote access from:
+- MATLAB 2016a +
+- Native PostgreSQL clients
+- ODBC- or JDBC-compliant clients
+    
+## Get Access 
 The ressource is **only** available for CBS staff. More information can be found [here](https://www.cbs.dk/en/library/databases/wrds-wharton-research-data-services).
 
 ## WRDS Cloud Documentation
-- [WRCDS Cloud Introduction Video](https://wrds-www.wharton.upenn.edu/pages/grid-items/accessing-wrds-cloud/)
+- [Introduction to the WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/introduction-wrds-cloud/)
+- [Using SSH to Connect to the WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/using-ssh-connect-wrds-cloud/)
 
-
-### For further information or support please contact us at:
+## For further information or support please contact us at:
 
 Research & Data Management @ CBS (rdm@cbs.dk)
 
