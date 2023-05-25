@@ -1,4 +1,6 @@
-# WRDS Cloud
+# WRDS
+
+## WRDS Cloud
 
 WRDS Cloud is a HPC service with the possibility to process the data avaliable on [WRDS- Wharton Research Data Services](https://wrds-www.wharton.upenn.edu/).
 
@@ -26,7 +28,10 @@ The ressource is **only** available for CBS staff. More information can be found
 - [Using SSH to Connect to the WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/using-ssh-connect-wrds-cloud/)
 - [Access WRDS data from Local PC or UCloud (Python)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/python-from-your-computer/)
 - [Access WRDS data from Local PC or UCloud (R)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-r/r-from-your-computer/)
-
+- [Access WRDS data from Local PC or UCloud (Matlab)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-matlab/matlab-from-your-computer/)
+- [Access WRDS data from Local PC or UCloud (SAS)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-sas/sas-from-your-computer/)
+- [Access WRDS data from Local PC or UCloud (STATA)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-stata/stata-wrds-cloud/)
+- 
 ## For further information or support please contact us at:
 
 Research & Data Management @ CBS (rdm@cbs.dk)
