@@ -24,7 +24,8 @@ The ressource is **only** available for CBS staff. More information can be found
 ## WRDS Cloud Documentation
 - [Introduction to the WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/introduction-wrds-cloud/)
 - [Using SSH to Connect to the WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/using-ssh-connect-wrds-cloud/)
-- [Access WRDS data from python on your computer or UCloud](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/python-from-your-computer/)
+- [Access WRDS data from Local PC or UCloud (Python)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/python-from-your-computer/)
+- [Access WRDS data from Local PC or UCloud (R)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-r/r-from-your-computer/)
 
 ## For further information or support please contact us at:
 
