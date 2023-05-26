@@ -1,10 +1,20 @@
-# WRDS
+# WRDS - Wharton Research Data Services
+
+WRDS provides access to financial data, accounting figures as well as banking and management information. CBS students and staff must register to get access.
+
+## Get Access 
+The ressource is **only** available for CBS staff. More information on how to get access can be found [here](https://www.cbs.dk/en/library/databases/wrds-wharton-research-data-services).
+
+## Accessing WRDS databases from Local PC & UCloud
+- [Python](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/python-from-your-computer/)
+- [R](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-r/r-from-your-computer/)
+- [Matlab](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-matlab/matlab-from-your-computer/)
+- [SAS](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-sas/sas-from-your-computer/)
+- [STATA](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-stata/stata-wrds-cloud/)
 
 ## WRDS Cloud
-
 WRDS Cloud is a HPC service with the possibility to process the data avaliable on [WRDS- Wharton Research Data Services](https://wrds-www.wharton.upenn.edu/).
-
-## Available Software 
+### Available Software 
 **The WRDS Cloud provides the following software for your research needs:**
 - SAS 9.4
 - R 3.5
@@ -17,21 +27,10 @@ WRDS Cloud is a HPC service with the possibility to process the data avaliable o
 - Native PostgreSQL clients
 - ODBC- or JDBC-compliant clients
 
-## Data Sets
-The WRDS Cloud offers access to all WRDS data, including the very large NYSE TAQ (Trade & Quote) databases. Just like any other WRDS service, your institution must have an active subscription to a dataset in order to access it, though we also offer several free datasets should you wish to demo our services.
-
-## Get Access 
-The ressource is **only** available for CBS staff. More information can be found [here](https://www.cbs.dk/en/library/databases/wrds-wharton-research-data-services).
-
-## WRDS Cloud Documentation
+### WRDS Cloud Documentation
 - [Introduction to the WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/introduction-wrds-cloud/)
-- [Using SSH to Connect to the WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/using-ssh-connect-wrds-cloud/)
-- [Access WRDS data from Local PC or UCloud (Python)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/python-from-your-computer/)
-- [Access WRDS data from Local PC or UCloud (R)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-r/r-from-your-computer/)
-- [Access WRDS data from Local PC or UCloud (Matlab)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-matlab/matlab-from-your-computer/)
-- [Access WRDS data from Local PC or UCloud (SAS)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-sas/sas-from-your-computer/)
-- [Access WRDS data from Local PC or UCloud (STATA)](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-stata/stata-wrds-cloud/)
-- 
+- [Using SSH to Connect to the WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/using-ssh-connect-wrds-cloud/) 
+
 ## For further information or support please contact us at:
 
 Research & Data Management @ CBS (rdm@cbs.dk)
