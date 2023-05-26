@@ -7,11 +7,15 @@
 More information can be found [here](https://www.cbs.dk/en/library/databases/wrds-wharton-research-data-services).
 
 ## Accessing WRDS databases from Local PC & UCloud
+
+### WRDS Documentation
 - [Python](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/python-from-your-computer/)
 - [R](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-r/r-from-your-computer/)
 - [Matlab](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-matlab/matlab-from-your-computer/)
 - [SAS](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-sas/sas-from-your-computer/)
 - [STATA](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-stata/stata-wrds-cloud/)
+### UCloud Scripts
+
 
 ## WRDS Cloud
 [WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/) is a HPC service with the possibility to process the data avaliable on WRDS. 
