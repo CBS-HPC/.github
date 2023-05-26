@@ -16,7 +16,7 @@ More information can be found [here](https://www.cbs.dk/en/library/databases/wrd
 - [STATA](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-stata/stata-wrds-cloud/)
 
 ### UCloud Templates/Scripts
-https://github.com/CBS-HPC/.github/tree/main/WRDS
+- https://github.com/CBS-HPC/.github/tree/main/WRDS
 
 ## WRDS Cloud
 [WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/) is a HPC service with the possibility to process the data avaliable on WRDS. 
