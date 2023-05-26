@@ -40,9 +40,6 @@ More information can be found [here](https://www.cbs.dk/en/library/databases/wrd
 - [Using SSH to Connect to the WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/using-ssh-connect-wrds-cloud/) 
 
 ## For further information or support please contact us at:
-
-Research & Data Management @ CBS (rdm@cbs.dk)
-
-Kristoffer Gulmark Poulsen (kgp.lib@cbs.dk)
-
-Lars Nondal (ln.lib@cbs.dk)
+- Research & Data Management @ CBS (rdm@cbs.dk)
+- Kristoffer Gulmark Poulsen (kgp.lib@cbs.dk)
+- Lars Nondal (ln.lib@cbs.dk)
