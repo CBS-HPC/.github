@@ -2,10 +2,7 @@
 
 [WRDS- Wharton Research Data Services](https://wrds-www.wharton.upenn.edu/) provides access to financial data, accounting figures as well as banking and management information. 
 
-**CBS students and staff must register to get access.**
-
-## Get Access 
-The ressource is **only** available for CBS staff. More information on how to get access can be found [here](https://www.cbs.dk/en/library/databases/wrds-wharton-research-data-services).
+**CBS students and staff must register to get access.** More information on how to get access can be found [here](https://www.cbs.dk/en/library/databases/wrds-wharton-research-data-services).
 
 ## Accessing WRDS databases from Local PC & UCloud
 - [Python](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-python/python-from-your-computer/)
