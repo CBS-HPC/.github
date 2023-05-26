@@ -1,6 +1,8 @@
 # WRDS - Wharton Research Data Services
 
-WRDS provides access to financial data, accounting figures as well as banking and management information. CBS students and staff must register to get access.
+[WRDS- Wharton Research Data Services](https://wrds-www.wharton.upenn.edu/) provides access to financial data, accounting figures as well as banking and management information. 
+
+**CBS students and staff must register to get access.**
 
 ## Get Access 
 The ressource is **only** available for CBS staff. More information on how to get access can be found [here](https://www.cbs.dk/en/library/databases/wrds-wharton-research-data-services).
@@ -13,7 +15,8 @@ The ressource is **only** available for CBS staff. More information on how to ge
 - [STATA](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-stata/stata-wrds-cloud/)
 
 ## WRDS Cloud
-WRDS Cloud is a HPC service with the possibility to process the data avaliable on [WRDS- Wharton Research Data Services](https://wrds-www.wharton.upenn.edu/).
+[WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/) is a HPC service with the possibility to process the data avaliable on WRDS.
+
 ### Available Software 
 **The WRDS Cloud provides the following software for your research needs:**
 - SAS 9.4
