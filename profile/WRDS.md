@@ -15,7 +15,7 @@ The ressource is **only** available for CBS staff. More information on how to ge
 - [STATA](https://wrds-www.wharton.upenn.edu/pages/support/programming-wrds/programming-stata/stata-wrds-cloud/)
 
 ## WRDS Cloud
-[WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/) is a HPC service with the possibility to process the data avaliable on WRDS.
+[WRDS Cloud](https://wrds-www.wharton.upenn.edu/pages/support/the-wrds-cloud/) is a HPC service with the possibility to process the data avaliable on WRDS. **WRDS Cloud is only acessable for CBS staff and researchers.**
 
 ### Available Software 
 **The WRDS Cloud provides the following software for your research needs:**
