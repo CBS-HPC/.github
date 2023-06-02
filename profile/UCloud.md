@@ -2,16 +2,6 @@
 
 The easiest-to-use HPC service is DeiC Interactive HPC (Type 1) also known as [UCloud](https://cloud.sdu.dk/). This service is provided by the Danish universities **SDU** and **AAU**.
 
-**The following guide covers the follow:**
-
-[Facility Overview](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#facility-overview) &nbsp;&nbsp;| &nbsp;&nbsp;
-[Login onto UCloud](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#login-onto-ucloud) &nbsp;&nbsp;| &nbsp;&nbsp;
-[Get started with UCloud](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#get-started-with-ucloud) &nbsp;&nbsp;| &nbsp;&nbsp;
-[User Support](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#user-support) &nbsp;&nbsp;| &nbsp;&nbsp;
-[Apply for Funds](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#apply-for-funds) &nbsp;&nbsp;| &nbsp;&nbsp;
-[Collaboration on UCloud](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#collaboration-on-ucloud) &nbsp;&nbsp;| &nbsp;&nbsp;
-[License Software](https://github.com/CBS-HPC/.github/blob/main/profile/UCloud.md#license-software)
-
 ## Facility Overview
 
 [SDU](https://cloud.sdu.dk/app/providers/detailed/ucloud) provides **CPU** based containerized applications such as MATLAB, STATA, RStudio, and JupyterLab through a graphical user interface (GUI), in the same way as they would on your laptop. [See all apps](https://docs.cloud.sdu.dk/Apps/type.html). 
@@ -49,7 +39,7 @@ Start by watching the following UCloud tutorials:
 
 ## User Support
 
-All UCloud support should go through the CBS front office(rdm@cbs.dk). If problems cannot be solved locally the CBS Front office will take contact to the UCloud system adminstrators (**Back Office**). 
+All UCloud support should go through the **RDM Support** (rdm@cbs.dk). If problems cannot be solved locally the CBS Front office will take contact to the UCloud system adminstrators (**Back Office**). 
 
 This setup provides a better service to users and saves valuable time for **Back Office** technicians who can concentrate on highly technical issues.
 
@@ -58,7 +48,7 @@ This setup provides a better service to users and saves valuable time for **Back
 ### Students
 CBS student can only have direct access to the initial 1000kr credit and 50 GB storage. When you need more/other resources, it must go through your thesis supervisor who needs to apply for funds and invite you to join the UCloud project. 
 
-If this is not possible then you welcome to contact [RDM Support](rdm@cbs.dk) to discuss further.
+If this is not possible then you welcome to contact **RDM Support** (rdm@cbs.dk) to discuss further.
 
 The ressources will be provided within a UCloud project and not to a user "My Workspace".
 
@@ -66,9 +56,9 @@ The ressources will be provided within a UCloud project and not to a user "My Wo
 
 Further funds can be obtianed in two ways: 
 
-1. Apply to the local CBS ressource pool. You apply from UCloud by sending a [UCloud grant application](https://github.com/CBS-HPC/.github/blob/main/profile/GrantApp.md). Information on machine type selection be found [here](https://github.com/CBS-HPC/.github/blob/main/profile/MachineType.md). Otherwise please contact [RDM Support](rdm@cbs.dk).
+1. Apply to the local CBS ressource pool. You apply from UCloud by sending a [UCloud grant application](https://github.com/CBS-HPC/.github/blob/main/profile/GrantApp.md). Information on machine type selection be found [here](https://github.com/CBS-HPC/.github/blob/main/profile/MachineType.md). Otherwise please contact **RDM Support** (rdm@cbs.dk).
 
-2. Apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) for the national HPC resources. Please contact [RDM Support](rdm@cbs.dk) as soon as possible if you consider applying.
+2. Apply for the [bi-annual application round](https://www.deic.dk/en/supercomputing/Apply-for-HPC-resources) for the national HPC resources. Please contact **RDM Support** (rdm@cbs.dk) as soon as possible if you consider applying.
 
 For both ways the ressources will be provided to a UCloud project and not to a user "My Workspace". Each UCloud project will be given a reference number (DeiC-XX-Y NUMBER).
 
