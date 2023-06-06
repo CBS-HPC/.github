@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cat > ~/.pgpass << 'EOL'
-wrds-pgdata.wharton.upenn.edu:9737:wrds:kgpcbs:2pacrbatman01
+wrds-pgdata.wharton.upenn.edu:9737:wrds:username:password
 EOL
 
 chmod 600 ~/.pgpass
